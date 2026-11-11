@@ -1,5 +1,7 @@
 # erp-consolidation-toolkit
 
+![erp-consolidation-toolkit: project banner](docs/images/banner.png)
+
 [![Tests](https://github.com/pJijesh/erp-consolidation-toolkit/actions/workflows/test.yml/badge.svg)](https://github.com/pJijesh/erp-consolidation-toolkit/actions/workflows/test.yml) [![Licence: MIT](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE) ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg) ![Dependencies: none](https://img.shields.io/badge/dependencies-none-brightgreen.svg)
 
 **Problem:** groups that own several companies often run several ERP and finance systems, and the case for moving them onto one platform is usually argued from opinion, while the real risks (duplicate master data, charts of accounts that do not map, balances that do not reconcile) are found late, and sometimes the right answer is not to consolidate at all.
