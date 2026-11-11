@@ -9,7 +9,7 @@ description = "CSV based tooling and decision guidance for consolidating ERP and
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Jijesh Puliyappottammal" }]
+authors = [{ name = "Puliyappottammal Jijesh" }]
 keywords = ["erp", "data-migration", "chart-of-accounts", "master-data", "deduplication", "finance"]
 classifiers = [
     "Programming Language :: Python :: 3",
