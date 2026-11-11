@@ -1,0 +1,37 @@
+supplier_id,supplier_name,address_1,city,postcode,country,vat_no,email,created
+S20002,Alddale Bearings Limited,"Unit 30, Station Street",Doncaster,DN15 1GJ,UK,GB117555768,accounts@alddale-bearings.example ,2020-07-18
+S20002,Hoxwarth Manufacturing PLC,"Unit 20, Station Road",Redditch,B6 5D,GB,,accounts@hoxwarth-manufacturing.example,2020-07-12
+S20004,Gulby Engineering Limited,"Unit 27, Foundry Street",Leeds,LS18 2GH,GB,GB248202011,accounts@gulby-engineering.example,2022-04-18
+S20005,Rintry Engineering Limited,"Unit 29, Station Street",Swindon,SN15 3YW,GB,GB403410913,accounts@rintry-engineering.example,02/03/2019
+S20007,Ostton Instruments Limited,"Unit 9, Quarry Park",Derby,DE10 3TY,GB,GB188475785,,2020-02-22
+S20012,Wexisk Valves Ltd,"Unit 25, Quarry Way",Telford,TF10 6PB,GB,GB668332810,,2019-04-24
+S20015,Dunstead Electrical Ltd,"Unit 24, Mill Park",Walsall,WS4 4EX,GB,GB938649030,accounts@dunstead-electrical.example,2021-09-04
+S20015,Delbrae Electrical AG,Industriestraße 28,Köln,50138,Germany,DE483972848,,26/09/2019
+S20023,Selshaw Pumps Limited,"Unit 16, Mill Road",Cardiff,,UK,GB774025670,n/a,2023-09-15
+S20026,Ravvane Metals Limited,"Unit 4, Mill Way",Redditch,B3 1QB,UK,GB817128981,accounts@ravvane-metals.example,2022-09-04
+S20027,Monwyn Metals Limited,"Unit 3, Mill Lane",Leeds,LS11 3SW,GB,GB003215499,accounts@monwyn-metals.example,2024-02-18
+S20029,Fenford Heat Treatment KG,Hüttenweg 25,Dresden,01924,Germany,DE999821589,accounts@fenford-heattreatment.example,2020-01-23
+S20033,Ashham Engineering AG,Gewerbepark 46,Stuttgart,70377,DE,DE844924889,accounts@ashham-engineering.example,17/03/2021
+S20037,Kesisk Group Holdings PLC,"Unit 33, Station Lane",Bolton,BL17 5GY,GB,GB828686044,accounts@kesisk-industrialsupplies.example,2018-10-04
+S20040,Crevden Testing Services Ltd,"Unit 17, Station Street",Nottingham,NG12 2XL,GB,GB802289169,accounts@crevden-testingservices.example,2019-09-12
+S20041,Eldhurst Abrasives KG,Am Hafen 26,Bremen,28606,Germany,DE582110760,accounts@eldhurst-abrasives.example,2020-12-22
+S20042,Keswyn Valves GmbH,Werkstraße 40,Dresden,01536,Germany,DE405570360,accounts@keswyn-valves.example,03/10/2023
+S20046,Ostwyn Packaging Ltd,"Unit 24, Industrial Road",Cardiff,CF1 7DY,GB,GB481502756,accounts@ostwyn-packaging.example,2024-12-23
+S20048,Guldale Fixings GmbH,Schmiedegasse 23,Bremen,28359,DE,DE479905461,accounts@guldale-fixings.example,2019-03-18
+S20051,BRYNISK LUBRICANTS LTD,"Unit 23, Station Way",Coventry,CV11 2RW,UK,GB869609308,accounts@brynisk-lubricants.example,2021-01-15
+S20055,GULBY ENGINEERING LIMITED,"Unit 27, Foundry Street",Leeds,LS18 2GH,GB,GB 248 202 011,accounts@gulby-engineering.example,2024-11-24
+S20056,Helwell Bearings AG,Bahnhofstraße 23,Hannover,30857,Germany,DE809812446,accounts@helwell-bearings.example,2024-07-01
+S20058,Helley Valves Ltd,"Unit 39, Foundry Way",Leeds,LS13 8ZD,United Kingdom,GB344581353,accounts@helley-valves.example,2024-11-11
+S20062,Vanvane Pumps Ltd,"Unit 10, Furnace Street",Leeds,LS17 8EW,GB,GB916578242,,2021-11-06
+S20064,Wexden Pattern Makers Limited,"Unit 12, Forge Way",Swindon,SN4 6TZ,GB,GB03921661,accounts@wexden-patternmakers.example,2020-03-15
+S20068,Brynthorn Haulage KG,Am Hafen 4,Essen,45745,DE,DE542770613,accounts@brynthorn-haulage.example,21/02/2019
+S20072,Dordale Haulage PLC,"Unit 8, Quarry Street",Nottingham,NG18 6SS,United Kingdom,GB204808003,accounts@dordale-haulage.example,17/11/2022
+S20074,Fendale Engineering Ltd,"Unit 40, Mill Way",Stoke-on-Trent,ST5 8AW,United Kingdom,GB430115088,accounts@fendale-engineering.example,25/09/2022
+S20075,Wilwyn Pumps Ltd,"Unit 31, Furnace Road",Reading,RG5 3ZP,GB,GB729634895,accounts@wilwyn-pumps.example,2021-08-09
+S20076,Kesisk Industrial Supplies PLC,"Unit 33, Station Lane",Bolton,BL17 5GY,GB,GB951851443,accounts@kesisk-industrialsupplies.example,2018-05-14
+S20079,RAVVANE METALS LIMITED,"Unit 4, Mill Way",Redditch,B3 1QB,UK,,accounts@ravvane-metals.example,2025-11-28
+S20083,"Eldhurst Abrasives,  KG",Am Hafen 26,Bremen,28606,Germany,,accounts@eldhurst-abrasives.example,22/01/2023
+S20087,Ravhurst Testing Services KG,Am Hafen 15,Leipzig,04903,Germany,DE697034713,accounts@ravhurst-testingservices.example,2022-04-16
+S20090,CORLEY STEEL STOCKHOLDERS LIMITED,"Unit 9, Furnace Way",Doncaster,DN18 9NJ,United Kingdom,GB405656077,n/a,07/08/2022
+S20094,Selshaw Pumps Ltd,"Unit 16, Mill Road",Cardiff,CF14 6GY,GB,GB774025670,accounts@selshaw-pumps.example,2024-05-18
+S20097,RINTRY ENGINEERING LIMITED,"Unit 29, Station Street",Swindon,SN15 3YW,United Kingdom,GB 403 410 913,accounts@rintry-engineering.example,2020-07-11

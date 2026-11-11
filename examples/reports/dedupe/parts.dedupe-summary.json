@@ -1,0 +1,30 @@
+{
+  "auto_pairs": 22,
+  "clusters": 22,
+  "clusters_spanning_both_systems": 17,
+  "entity": "part",
+  "kind": "dedupe",
+  "name": "parts",
+  "records": 106,
+  "review_pairs": 10,
+  "review_pairs_per_100_records": 9.43,
+  "systems": {
+    "A": {
+      "label": "ERP A",
+      "records": 54,
+      "within_duplicate_rate": 0.0556,
+      "within_duplicate_records": 3
+    },
+    "B": {
+      "label": "ERP B",
+      "records": 52,
+      "within_duplicate_rate": 0.0385,
+      "within_duplicate_records": 2
+    }
+  },
+  "thresholds": {
+    "auto": 85,
+    "review": 50
+  },
+  "warnings": []
+}

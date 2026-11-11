@@ -1,0 +1,45 @@
+cluster_id,role,system,id,name_or_description,survivor_system,survivor_id,cluster_size,weakest_pair_score,directly_matched_to_survivor,fields_to_check,action
+C0001,survivor,A,FX 10939 C,BOLT SET DN80 CAST IRON,A,FX 10939 C,2,100,yes,,keep as the group record
+C0001,merge_into_survivor,A,FX-10939-C,Bolt set DN80 cast iron,A,FX 10939 C,2,100,yes,,"propose merge into survivor, after review"
+C0002,survivor,A,FX-10081,Bolt set DN40 ductile iron,A,FX-10081,2,100,yes,,keep as the group record
+C0002,merge_into_survivor,B,FX10081,ductile iron Bolt set DN40,A,FX-10081,2,100,yes,values differ: description,"propose merge into survivor, after review"
+C0003,survivor,A,FX-10296-C,Bolt set DN100 stainless steel,A,FX-10296-C,2,100,yes,,keep as the group record
+C0003,merge_into_survivor,B,FX-0010296-C,BOLT SET DN100 SS,A,FX-10296-C,2,100,yes,,"propose merge into survivor, after review"
+C0004,survivor,A,FX-10341,Gasket pack DN150 stainless steel,A,FX-10341,2,100,yes,,keep as the group record
+C0004,merge_into_survivor,B,FX-0010341,GASKET PACK DN150 SS,A,FX-10341,2,100,yes,,"propose merge into survivor, after review"
+C0005,survivor,A,FX-10391-C,Stud kit DN50 ductile iron,A,FX-10391-C,2,85,yes,,keep as the group record
+C0005,merge_into_survivor,B,5871-7181,STUD KIT DN50 DI,A,FX-10391-C,2,85,yes,,"propose merge into survivor, after review"
+C0006,survivor,A,MC 10795 C,GATE VALVE BODY DN50 STAINLESS STEEL,A,MC 10795 C,2,100,yes,,keep as the group record
+C0006,merge_into_survivor,A,MC-10795-C,Gate valve body DN50 stainless steel,A,MC 10795 C,2,100,yes,,"propose merge into survivor, after review"
+C0007,survivor,A,MC-10263,Pump housing DN50 bronze,A,MC-10263,2,100,yes,,keep as the group record
+C0007,merge_into_survivor,B,MC10263,PUMP HOUSING DN50 BRONZE,A,MC-10263,2,100,yes,,"propose merge into survivor, after review"
+C0008,survivor,A,MC-10337,Impeller DN100 ductile iron,A,MC-10337,2,100,yes,,keep as the group record
+C0008,merge_into_survivor,B,MC-0010337,IMPELLER DN100 DI,A,MC-10337,2,100,yes,,"propose merge into survivor, after review"
+C0009,survivor,A,MC-10351,Impeller DN150 stainless steel,A,MC-10351,2,100,yes,,keep as the group record
+C0009,merge_into_survivor,B,MC-0010351,Impeller DN 150 SS,A,MC-10351,2,100,yes,values differ: description,"propose merge into survivor, after review"
+C0010,survivor,A,MC-10473,Impeller DN80 ductile iron,A,MC-10473,2,85,yes,,keep as the group record
+C0010,merge_into_survivor,B,5322-4629,ductile iron Impeller DN80,A,MC-10473,2,85,yes,values differ: description,"propose merge into survivor, after review"
+C0011,survivor,A,MC-10518,Gate valve body DN150 bronze,A,MC-10518,2,85,yes,,keep as the group record
+C0011,merge_into_survivor,B,5249-9067,bronze Gate valve body DN150,A,MC-10518,2,85,yes,values differ: description,"propose merge into survivor, after review"
+C0012,survivor,A,MM-10033,Gland follower DN80 bronze,A,MM-10033,2,100,yes,,keep as the group record
+C0012,merge_into_survivor,B,MM10033,Gland follower DN 80 bronze,A,MM-10033,2,100,yes,values differ: description,"propose merge into survivor, after review"
+C0013,survivor,A,MM-10052,Seal ring DN40 ductile iron,A,MM-10052,2,100,yes,,keep as the group record
+C0013,merge_into_survivor,B,MM10052,Seal ring DN 40 DI,A,MM-10052,2,100,yes,values differ: description,"propose merge into survivor, after review"
+C0014,survivor,A,MM-10095,Gland follower DN80 cast iron,A,MM-10095,2,100,yes,,keep as the group record
+C0014,merge_into_survivor,B,MM10095,Gland follower DN 80 CI,A,MM-10095,2,100,yes,values differ: description,"propose merge into survivor, after review"
+C0015,survivor,A,MM-10178,Shaft sleeve DN50 ductile iron,A,MM-10178,2,100,yes,,keep as the group record
+C0015,merge_into_survivor,B,MM10178,SHAFT SLEEVE DN50 DI,A,MM-10178,2,100,yes,,"propose merge into survivor, after review"
+C0016,survivor,A,MM-10329-B,Seal ring DN80 stainless steel,A,MM-10329-B,2,100,yes,,keep as the group record
+C0016,merge_into_survivor,B,MM-0010329-B,SEAL RING DN80 SS,A,MM-10329-B,2,100,yes,,"propose merge into survivor, after review"
+C0017,survivor,A,MM-10459-C,Shaft sleeve DN150 cast iron,A,MM-10459-C,2,85,yes,,keep as the group record
+C0017,merge_into_survivor,B,5826-2310,cast iron Shaft sleeve DN150,A,MM-10459-C,2,85,yes,values differ: description,"propose merge into survivor, after review"
+C0018,survivor,A,TL 10669 C,CORE BOX DN25 BRONZE,A,TL 10669 C,2,100,yes,,keep as the group record
+C0018,merge_into_survivor,A,TL-10669-C,Core box DN25 bronze,A,TL 10669 C,2,100,yes,,"propose merge into survivor, after review"
+C0019,survivor,A,TL-10396,Pattern plate DN40 stainless steel,A,TL-10396,2,85,yes,,keep as the group record
+C0019,merge_into_survivor,B,5878-4506,stainless steel Pattern plate DN40,A,TL-10396,2,85,yes,values differ: description,"propose merge into survivor, after review"
+C0020,survivor,A,TL-10432-C,Core box DN100 ductile iron,A,TL-10432-C,2,85,yes,,keep as the group record
+C0020,merge_into_survivor,B,5682-2570,CORE BOX DN100 DI,A,TL-10432-C,2,85,yes,,"propose merge into survivor, after review"
+C0021,survivor,B,MM-0011162,Ductile Iron Bearing Bracket Dn40,B,MM-0011162,2,100,yes,,keep as the group record
+C0021,merge_into_survivor,B,MM11162,ductile iron Bearing bracket DN40,B,MM-0011162,2,100,yes,,"propose merge into survivor, after review"
+C0022,survivor,B,MM-0011234,Seal Ring Dn 100 Ci,B,MM-0011234,2,100,yes,,keep as the group record
+C0022,merge_into_survivor,B,MM11234,Seal ring DN 100 CI,B,MM-0011234,2,100,yes,,"propose merge into survivor, after review"

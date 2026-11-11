@@ -1,0 +1,172 @@
+type,period,account_or_class,expected_or_before,actual_or_after,difference,note
+unmapped_balance,2026-01,100400,1781096.64,0.00,-1781096.64,Vehicles cost: balance has no approved mapping
+unmapped_balance,2026-01,100700,-824580.09,0.00,824580.09,Office equipment accumulated depreciation: balance has no approved mapping
+unmapped_balance,2026-01,100800,531597.37,0.00,-531597.37,IT hardware cost: balance has no approved mapping
+unmapped_balance,2026-01,100900,-600500.51,0.00,600500.51,IT hardware accumulated depreciation: balance has no approved mapping
+unmapped_balance,2026-01,200100,542081.50,0.00,-542081.50,Inventory raw materials: balance has no approved mapping
+unmapped_balance,2026-01,200200,458403.55,0.00,-458403.55,Inventory work in progress: balance has no approved mapping
+unmapped_balance,2026-01,200300,379016.37,0.00,-379016.37,Inventory finished goods: balance has no approved mapping
+unmapped_balance,2026-01,200400,-487443.12,0.00,487443.12,Inventory write-down reserve: balance has no approved mapping
+unmapped_balance,2026-01,200510,541241.64,0.00,-541241.64,Trade receivables EU: balance has no approved mapping
+unmapped_balance,2026-01,200600,-117742.55,0.00,117742.55,Bad debt allowance: balance has no approved mapping
+unmapped_balance,2026-01,200800,94419.89,0.00,-94419.89,Prepaid expenses: balance has no approved mapping
+unmapped_balance,2026-01,200900,9631.43,0.00,-9631.43,Accrued income: balance has no approved mapping
+unmapped_balance,2026-01,201000,51281.25,0.00,-51281.25,Input tax 19 percent: balance has no approved mapping
+unmapped_balance,2026-01,201200,67762.86,0.00,-67762.86,Bank USD account: balance has no approved mapping
+unmapped_balance,2026-01,201300,1414.71,0.00,-1414.71,Cash on hand: balance has no approved mapping
+unmapped_balance,2026-01,201400,83040.83,0.00,-83040.83,Receivables from affiliated companies: balance has no approved mapping
+unmapped_balance,2026-01,201500,46204.55,0.00,-46204.55,Security deposits paid: balance has no approved mapping
+unmapped_balance,2026-01,201600,64181.00,0.00,-64181.00,Emissions certificates: balance has no approved mapping
+unmapped_balance,2026-01,300100,-185127.11,0.00,185127.11,Subscribed capital: balance has no approved mapping
+unmapped_balance,2026-01,400100,-120127.22,0.00,120127.22,Trade payables domestic: balance has no approved mapping
+unmapped_balance,2026-01,400400,-69083.27,0.00,69083.27,Output tax 19 percent: balance has no approved mapping
+unmapped_balance,2026-01,400610,-105246.20,0.00,105246.20,Social security payable: balance has no approved mapping
+unmapped_balance,2026-01,400700,-181123.77,0.00,181123.77,Pension fund payable: balance has no approved mapping
+unmapped_balance,2026-01,400800,-125688.05,0.00,125688.05,Corporate income tax payable: balance has no approved mapping
+unmapped_balance,2026-01,401000,-253919.36,0.00,253919.36,Finance lease liabilities current: balance has no approved mapping
+unmapped_balance,2026-01,401400,-91359.31,0.00,91359.31,Warranty provision: balance has no approved mapping
+unmapped_balance,2026-01,450100,-533892.85,0.00,533892.85,Long-term loans: balance has no approved mapping
+unmapped_balance,2026-01,450200,-1095705.78,0.00,1095705.78,Finance lease liabilities non-current: balance has no approved mapping
+unmapped_balance,2026-01,500100,-612802.99,0.00,612802.99,Revenue domestic: balance has no approved mapping
+unmapped_balance,2026-01,500700,-33251.64,0.00,33251.64,Other operating income: balance has no approved mapping
+unmapped_balance,2026-01,500800,-28532.46,0.00,28532.46,Proceeds from scrap: balance has no approved mapping
+unmapped_balance,2026-01,600200,177360.86,0.00,-177360.86,Production wages: balance has no approved mapping
+unmapped_balance,2026-01,600600,45602.22,0.00,-45602.22,Energy production: balance has no approved mapping
+unmapped_balance,2026-01,600700,41652.45,0.00,-41652.45,Tools expensed: balance has no approved mapping
+unmapped_balance,2026-01,601000,56750.38,0.00,-56750.38,Scrap and rework costs: balance has no approved mapping
+unmapped_balance,2026-01,601100,30817.77,0.00,-30817.77,Inventory write-offs: balance has no approved mapping
+unmapped_balance,2026-01,700200,28643.87,0.00,-28643.87,Salaries administration: balance has no approved mapping
+unmapped_balance,2026-01,700300,57860.65,0.00,-57860.65,Employer social security: balance has no approved mapping
+unmapped_balance,2026-01,700500,42976.63,0.00,-42976.63,Rent: balance has no approved mapping
+unmapped_balance,2026-01,700800,66495.47,0.00,-66495.47,Maintenance machinery: balance has no approved mapping
+unmapped_balance,2026-01,701300,42388.25,0.00,-42388.25,IT services: balance has no approved mapping
+unmapped_balance,2026-01,701310,24784.75,0.00,-24784.75,Software subscriptions: balance has no approved mapping
+unmapped_balance,2026-01,701700,24996.20,0.00,-24996.20,Marketing: balance has no approved mapping
+unmapped_balance,2026-01,702100,7766.12,0.00,-7766.12,Depreciation vehicles: balance has no approved mapping
+unmapped_balance,2026-01,702200,24375.39,0.00,-24375.39,Depreciation office equipment: balance has no approved mapping
+unmapped_balance,2026-01,702210,28161.97,0.00,-28161.97,Amortisation software: balance has no approved mapping
+unmapped_balance,2026-01,702300,84693.09,0.00,-84693.09,Bad debt expense: balance has no approved mapping
+unmapped_balance,2026-01,702400,3117.92,0.00,-3117.92,Warranty expense: balance has no approved mapping
+unmapped_balance,2026-01,702600,88633.33,0.00,-88633.33,Other operating expenses: balance has no approved mapping
+unmapped_balance,2026-01,702700,18716.70,0.00,-18716.70,Packaging disposal levy: balance has no approved mapping
+unmapped_balance,2026-01,702800,16085.31,0.00,-16085.31,Works council costs: balance has no approved mapping
+unmapped_balance,2026-01,900200,1834.97,0.00,-1834.97,Realised exchange losses: balance has no approved mapping
+unmapped_balance,2026-01,900300,1512.04,0.00,-1512.04,Income tax expense: balance has no approved mapping
+unmapped_balance,2026-01,910100,-21008.70,0.00,21008.70,Interest income: balance has no approved mapping
+unmapped_balance,2026-01,910200,-3237.41,0.00,3237.41,Realised exchange gains: balance has no approved mapping
+reclassification,2026-01,expense,1561809.11,1585318.56,23509.45,balances moved between classes because source and target account types differ
+reclassification,2026-01,unclassified,23509.45,0.00,-23509.45,balances moved between classes because source and target account types differ
+unmapped_balance,2026-02,100400,1875766.58,0.00,-1875766.58,Vehicles cost: balance has no approved mapping
+unmapped_balance,2026-02,100700,-828478.10,0.00,828478.10,Office equipment accumulated depreciation: balance has no approved mapping
+unmapped_balance,2026-02,100800,530205.82,0.00,-530205.82,IT hardware cost: balance has no approved mapping
+unmapped_balance,2026-02,100900,-602112.17,0.00,602112.17,IT hardware accumulated depreciation: balance has no approved mapping
+unmapped_balance,2026-02,200100,537645.68,0.00,-537645.68,Inventory raw materials: balance has no approved mapping
+unmapped_balance,2026-02,200200,487470.72,0.00,-487470.72,Inventory work in progress: balance has no approved mapping
+unmapped_balance,2026-02,200300,375603.57,0.00,-375603.57,Inventory finished goods: balance has no approved mapping
+unmapped_balance,2026-02,200400,-465152.75,0.00,465152.75,Inventory write-down reserve: balance has no approved mapping
+unmapped_balance,2026-02,200510,533924.61,0.00,-533924.61,Trade receivables EU: balance has no approved mapping
+unmapped_balance,2026-02,200600,-121587.03,0.00,121587.03,Bad debt allowance: balance has no approved mapping
+unmapped_balance,2026-02,200800,95299.72,0.00,-95299.72,Prepaid expenses: balance has no approved mapping
+unmapped_balance,2026-02,200900,9816.30,0.00,-9816.30,Accrued income: balance has no approved mapping
+unmapped_balance,2026-02,201000,52208.44,0.00,-52208.44,Input tax 19 percent: balance has no approved mapping
+unmapped_balance,2026-02,201200,67671.16,0.00,-67671.16,Bank USD account: balance has no approved mapping
+unmapped_balance,2026-02,201300,1410.23,0.00,-1410.23,Cash on hand: balance has no approved mapping
+unmapped_balance,2026-02,201400,80007.54,0.00,-80007.54,Receivables from affiliated companies: balance has no approved mapping
+unmapped_balance,2026-02,201500,44614.03,0.00,-44614.03,Security deposits paid: balance has no approved mapping
+unmapped_balance,2026-02,201600,64665.55,0.00,-64665.55,Emissions certificates: balance has no approved mapping
+unmapped_balance,2026-02,300100,-174001.98,0.00,174001.98,Subscribed capital: balance has no approved mapping
+unmapped_balance,2026-02,400100,-116393.09,0.00,116393.09,Trade payables domestic: balance has no approved mapping
+unmapped_balance,2026-02,400400,-69923.63,0.00,69923.63,Output tax 19 percent: balance has no approved mapping
+unmapped_balance,2026-02,400610,-112272.63,0.00,112272.63,Social security payable: balance has no approved mapping
+unmapped_balance,2026-02,400700,-196193.21,0.00,196193.21,Pension fund payable: balance has no approved mapping
+unmapped_balance,2026-02,400800,-126979.98,0.00,126979.98,Corporate income tax payable: balance has no approved mapping
+unmapped_balance,2026-02,401000,-260373.95,0.00,260373.95,Finance lease liabilities current: balance has no approved mapping
+unmapped_balance,2026-02,401400,-91878.09,0.00,91878.09,Warranty provision: balance has no approved mapping
+unmapped_balance,2026-02,450100,-518675.48,0.00,518675.48,Long-term loans: balance has no approved mapping
+unmapped_balance,2026-02,450200,-1097519.35,0.00,1097519.35,Finance lease liabilities non-current: balance has no approved mapping
+unmapped_balance,2026-02,500100,-1143898.97,0.00,1143898.97,Revenue domestic: balance has no approved mapping
+unmapped_balance,2026-02,500700,-65623.15,0.00,65623.15,Other operating income: balance has no approved mapping
+unmapped_balance,2026-02,500800,-58600.59,0.00,58600.59,Proceeds from scrap: balance has no approved mapping
+unmapped_balance,2026-02,600200,370145.40,0.00,-370145.40,Production wages: balance has no approved mapping
+unmapped_balance,2026-02,600600,94435.02,0.00,-94435.02,Energy production: balance has no approved mapping
+unmapped_balance,2026-02,600700,79866.22,0.00,-79866.22,Tools expensed: balance has no approved mapping
+unmapped_balance,2026-02,601000,113824.83,0.00,-113824.83,Scrap and rework costs: balance has no approved mapping
+unmapped_balance,2026-02,601100,59508.86,0.00,-59508.86,Inventory write-offs: balance has no approved mapping
+unmapped_balance,2026-02,700200,56200.34,0.00,-56200.34,Salaries administration: balance has no approved mapping
+unmapped_balance,2026-02,700300,114345.80,0.00,-114345.80,Employer social security: balance has no approved mapping
+unmapped_balance,2026-02,700500,87264.94,0.00,-87264.94,Rent: balance has no approved mapping
+unmapped_balance,2026-02,700800,132432.80,0.00,-132432.80,Maintenance machinery: balance has no approved mapping
+unmapped_balance,2026-02,701300,84377.89,0.00,-84377.89,IT services: balance has no approved mapping
+unmapped_balance,2026-02,701310,49336.44,0.00,-49336.44,Software subscriptions: balance has no approved mapping
+unmapped_balance,2026-02,701700,50679.69,0.00,-50679.69,Marketing: balance has no approved mapping
+unmapped_balance,2026-02,702100,16665.77,0.00,-16665.77,Depreciation vehicles: balance has no approved mapping
+unmapped_balance,2026-02,702200,46510.64,0.00,-46510.64,Depreciation office equipment: balance has no approved mapping
+unmapped_balance,2026-02,702210,53735.80,0.00,-53735.80,Amortisation software: balance has no approved mapping
+unmapped_balance,2026-02,702300,181208.39,0.00,-181208.39,Bad debt expense: balance has no approved mapping
+unmapped_balance,2026-02,702400,6546.88,0.00,-6546.88,Warranty expense: balance has no approved mapping
+unmapped_balance,2026-02,702600,174045.28,0.00,-174045.28,Other operating expenses: balance has no approved mapping
+unmapped_balance,2026-02,702700,36698.74,0.00,-36698.74,Packaging disposal levy: balance has no approved mapping
+unmapped_balance,2026-02,702800,30299.71,0.00,-30299.71,Works council costs: balance has no approved mapping
+unmapped_balance,2026-02,900200,3654.01,0.00,-3654.01,Realised exchange losses: balance has no approved mapping
+unmapped_balance,2026-02,900300,2887.91,0.00,-2887.91,Income tax expense: balance has no approved mapping
+unmapped_balance,2026-02,910100,-41753.03,0.00,41753.03,Interest income: balance has no approved mapping
+unmapped_balance,2026-02,910200,-6527.86,0.00,6527.86,Realised exchange gains: balance has no approved mapping
+reclassification,2026-02,expense,3097558.06,3145366.32,47808.26,balances moved between classes because source and target account types differ
+reclassification,2026-02,unclassified,47808.26,0.00,-47808.26,balances moved between classes because source and target account types differ
+unmapped_balance,2026-03,100400,1849262.55,0.00,-1849262.55,Vehicles cost: balance has no approved mapping
+unmapped_balance,2026-03,100700,-893880.42,0.00,893880.42,Office equipment accumulated depreciation: balance has no approved mapping
+unmapped_balance,2026-03,100800,510734.96,0.00,-510734.96,IT hardware cost: balance has no approved mapping
+unmapped_balance,2026-03,100900,-588792.75,0.00,588792.75,IT hardware accumulated depreciation: balance has no approved mapping
+unmapped_balance,2026-03,200100,584401.55,0.00,-584401.55,Inventory raw materials: balance has no approved mapping
+unmapped_balance,2026-03,200200,455168.92,0.00,-455168.92,Inventory work in progress: balance has no approved mapping
+unmapped_balance,2026-03,200300,364200.99,0.00,-364200.99,Inventory finished goods: balance has no approved mapping
+unmapped_balance,2026-03,200400,-485826.47,0.00,485826.47,Inventory write-down reserve: balance has no approved mapping
+unmapped_balance,2026-03,200510,536107.68,0.00,-536107.68,Trade receivables EU: balance has no approved mapping
+unmapped_balance,2026-03,200600,-118754.20,0.00,118754.20,Bad debt allowance: balance has no approved mapping
+unmapped_balance,2026-03,200800,92484.51,0.00,-92484.51,Prepaid expenses: balance has no approved mapping
+unmapped_balance,2026-03,200900,9148.20,0.00,-9148.20,Accrued income: balance has no approved mapping
+unmapped_balance,2026-03,201000,46272.64,0.00,-46272.64,Input tax 19 percent: balance has no approved mapping
+unmapped_balance,2026-03,201200,65950.20,0.00,-65950.20,Bank USD account: balance has no approved mapping
+unmapped_balance,2026-03,201300,1495.02,0.00,-1495.02,Cash on hand: balance has no approved mapping
+unmapped_balance,2026-03,201400,87107.41,0.00,-87107.41,Receivables from affiliated companies: balance has no approved mapping
+unmapped_balance,2026-03,201500,48524.45,0.00,-48524.45,Security deposits paid: balance has no approved mapping
+unmapped_balance,2026-03,201600,60021.83,0.00,-60021.83,Emissions certificates: balance has no approved mapping
+unmapped_balance,2026-03,300100,-183861.46,0.00,183861.46,Subscribed capital: balance has no approved mapping
+unmapped_balance,2026-03,400100,-118951.13,0.00,118951.13,Trade payables domestic: balance has no approved mapping
+unmapped_balance,2026-03,400400,-69165.33,0.00,69165.33,Output tax 19 percent: balance has no approved mapping
+unmapped_balance,2026-03,400610,-110428.15,0.00,110428.15,Social security payable: balance has no approved mapping
+unmapped_balance,2026-03,400700,-169633.13,0.00,169633.13,Pension fund payable: balance has no approved mapping
+unmapped_balance,2026-03,400800,-130442.47,0.00,130442.47,Corporate income tax payable: balance has no approved mapping
+unmapped_balance,2026-03,401000,-259542.11,0.00,259542.11,Finance lease liabilities current: balance has no approved mapping
+unmapped_balance,2026-03,401400,-96061.17,0.00,96061.17,Warranty provision: balance has no approved mapping
+unmapped_balance,2026-03,450100,-498917.14,0.00,498917.14,Long-term loans: balance has no approved mapping
+unmapped_balance,2026-03,450200,-1115525.64,0.00,1115525.64,Finance lease liabilities non-current: balance has no approved mapping
+unmapped_balance,2026-03,500100,-1753142.22,0.00,1753142.22,Revenue domestic: balance has no approved mapping
+unmapped_balance,2026-03,500700,-100432.00,0.00,100432.00,Other operating income: balance has no approved mapping
+unmapped_balance,2026-03,500800,-91461.02,0.00,91461.02,Proceeds from scrap: balance has no approved mapping
+unmapped_balance,2026-03,600200,539898.46,0.00,-539898.46,Production wages: balance has no approved mapping
+unmapped_balance,2026-03,600600,142946.38,0.00,-142946.38,Energy production: balance has no approved mapping
+unmapped_balance,2026-03,600700,118771.46,0.00,-118771.46,Tools expensed: balance has no approved mapping
+unmapped_balance,2026-03,601000,168765.98,0.00,-168765.98,Scrap and rework costs: balance has no approved mapping
+unmapped_balance,2026-03,601100,88451.13,0.00,-88451.13,Inventory write-offs: balance has no approved mapping
+unmapped_balance,2026-03,700200,81238.80,0.00,-81238.80,Salaries administration: balance has no approved mapping
+unmapped_balance,2026-03,700300,173326.55,0.00,-173326.55,Employer social security: balance has no approved mapping
+unmapped_balance,2026-03,700500,132226.80,0.00,-132226.80,Rent: balance has no approved mapping
+unmapped_balance,2026-03,700800,192161.83,0.00,-192161.83,Maintenance machinery: balance has no approved mapping
+unmapped_balance,2026-03,701300,123702.70,0.00,-123702.70,IT services: balance has no approved mapping
+unmapped_balance,2026-03,701310,72329.99,0.00,-72329.99,Software subscriptions: balance has no approved mapping
+unmapped_balance,2026-03,701700,77186.36,0.00,-77186.36,Marketing: balance has no approved mapping
+unmapped_balance,2026-03,702100,24638.05,0.00,-24638.05,Depreciation vehicles: balance has no approved mapping
+unmapped_balance,2026-03,702200,69649.13,0.00,-69649.13,Depreciation office equipment: balance has no approved mapping
+unmapped_balance,2026-03,702210,80468.72,0.00,-80468.72,Amortisation software: balance has no approved mapping
+unmapped_balance,2026-03,702300,270203.43,0.00,-270203.43,Bad debt expense: balance has no approved mapping
+unmapped_balance,2026-03,702400,9683.67,0.00,-9683.67,Warranty expense: balance has no approved mapping
+unmapped_balance,2026-03,702600,257250.22,0.00,-257250.22,Other operating expenses: balance has no approved mapping
+unmapped_balance,2026-03,702700,54634.13,0.00,-54634.13,Packaging disposal levy: balance has no approved mapping
+unmapped_balance,2026-03,702800,45498.75,0.00,-45498.75,Works council costs: balance has no approved mapping
+unmapped_balance,2026-03,900200,5686.55,0.00,-5686.55,Realised exchange losses: balance has no approved mapping
+unmapped_balance,2026-03,900300,4454.85,0.00,-4454.85,Income tax expense: balance has no approved mapping
+unmapped_balance,2026-03,910100,-63476.21,0.00,63476.21,Interest income: balance has no approved mapping
+unmapped_balance,2026-03,910200,-10225.61,0.00,10225.61,Realised exchange gains: balance has no approved mapping
+reclassification,2026-03,expense,4638061.13,4709091.37,71030.24,balances moved between classes because source and target account types differ
+reclassification,2026-03,unclassified,71030.24,0.00,-71030.24,balances moved between classes because source and target account types differ

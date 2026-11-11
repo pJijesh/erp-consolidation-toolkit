@@ -1,0 +1,111 @@
+source_account,source_name,target_account
+100100,Land and buildings,11010
+100200,Technical equipment cost,11020
+100300,Technical equipment accumulated depreciation,11030
+100400,Vehicles cost,11040
+100500,Vehicles accumulated depreciation,11050
+100600,Office equipment cost,11060
+100700,Office equipment accumulated depreciation,11070
+100800,IT hardware cost,11080
+100900,IT hardware accumulated depreciation,11090
+101000,Capitalised software,11100
+200100,Inventory raw materials,12010
+200200,Inventory work in progress,12020
+200300,Inventory finished goods,12030
+200400,Inventory write-down reserve,12040
+200500,Trade receivables domestic,12050
+200510,Trade receivables EU,12050
+200520,Trade receivables non-EU,12050
+200600,Bad debt allowance,12060
+200700,Other receivables,12070
+200800,Prepaid expenses,12080
+200900,Accrued income,12090
+201000,Input tax 19 percent,12100
+201100,Bank 1 main account,12110
+201200,Bank USD account,12120
+201300,Cash on hand,12130
+201400,Receivables from affiliated companies,12140
+201500,Security deposits paid,12150
+201600,Emissions certificates,
+400100,Trade payables domestic,21010
+400110,Trade payables foreign,21010
+400200,Accrued expenses,21020
+400300,Goods receipt invoice receipt clearing,21030
+400400,Output tax 19 percent,21040
+400500,VAT settlement account,21050
+400600,Wage tax payable,21060
+400610,Social security payable,21060
+400700,Pension fund payable,21070
+400800,Corporate income tax payable,21080
+400900,Short-term loans,21090
+401000,Finance lease liabilities current,21100
+401100,Payables to affiliated companies,21110
+401200,Deferred income,21120
+401300,Customer prepayments received,21130
+401400,Warranty provision,21140
+401500,Accrued holiday pay,21150
+401600,Clearing account,21160
+401700,Investment grants deferred,21120
+450100,Long-term loans,22010
+450200,Finance lease liabilities non-current,22020
+450300,Deferred tax liability,22040
+300100,Subscribed capital,31010
+300200,Capital reserve,31020
+300300,Retained earnings brought forward,31030
+500100,Revenue domestic,41010
+500200,Revenue EU,41020
+500210,Revenue non-EU,41020
+500300,Revenue tooling,41030
+500400,Revenue spare parts,41040
+500500,Sales deductions,41050
+500600,Freight income,41060
+500700,Other operating income,41070
+500800,Proceeds from scrap,41080
+600100,Material costs,51010
+600200,Production wages,51020
+600300,External processing,51030
+600400,Freight-in,51040
+600500,Operating supplies production,51050
+600600,Energy production,51060
+600700,Tools expensed,51070
+600800,Change in inventories,51080
+600900,Price differences,51090
+601000,Scrap and rework costs,51100
+601100,Inventory write-offs,51110
+700100,Indirect labour,61010
+700200,Salaries administration,61020
+700300,Employer social security,61030
+700400,Pension expense,61040
+700500,Rent,61050
+700600,Property tax,61060
+700700,Utilities offices,61070
+700800,Maintenance machinery,61080
+700900,Insurance,61090
+701000,Vehicle costs,61100
+701100,Travel expenses,61110
+701200,Telecommunications,61120
+701300,IT services,61130
+701310,Software subscriptions,61130
+701400,Legal fees,61140
+701500,Audit and tax advisory,61150
+701600,Bank fees,61160
+701700,Marketing,61170
+701800,Training and education,61180
+701900,Office supplies,61190
+702000,Depreciation technical equipment,61200
+702100,Depreciation vehicles,61210
+702200,Depreciation office equipment,61220
+702210,Amortisation software,61220
+702300,Bad debt expense,61230
+702400,Warranty expense,61240
+702500,Occupational safety,61250
+702600,Other operating expenses,61260
+702700,Packaging disposal levy,
+702800,Works council costs,
+900100,Interest expense,71010
+900200,Realised exchange losses,71020
+900300,Income tax expense,71030
+900310,Trade tax expense,71030
+900400,Deferred tax expense,71040
+910100,Interest income,72010
+910200,Realised exchange gains,72020

@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "erp-consolidation-toolkit"
+dynamic = ["version"]
+description = "CSV based tooling and decision guidance for consolidating ERP and finance systems, or deciding not to."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Jijesh Puliyappottammal" }]
+keywords = ["erp", "data-migration", "chart-of-accounts", "master-data", "deduplication", "finance"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Office/Business :: Financial :: Accounting",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.urls]
+Homepage = "https://github.com/pJijesh/erp-consolidation-toolkit"
+
+[project.scripts]
+erp-consol = "erp_consol.cli:main"
+
+[tool.setuptools.dynamic]
+version = { attr = "erp_consol.__version__" }
+
+[tool.setuptools.packages.find]
+include = ["erp_consol*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

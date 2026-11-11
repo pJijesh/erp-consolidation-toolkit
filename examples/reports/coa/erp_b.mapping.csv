@@ -1,0 +1,111 @@
+source_account,source_name,source_type,target_account,target_name,method,confidence,status,flags,has_balance
+100100,Land and buildings,asset,11010,Freehold land and buildings,manual,1.00,approved,,yes
+100200,Technical equipment cost,asset,11020,Plant and machinery at cost,manual,1.00,approved,,yes
+100300,Technical equipment accumulated depreciation,asset,11030,Plant and machinery accumulated depreciation,manual,1.00,approved,many_to_one,yes
+100400,Vehicles cost,asset,11040,Motor vehicles at cost,suggested,0.74,review,low_confidence,yes
+100500,Vehicles accumulated depreciation,asset,11050,Motor vehicles accumulated depreciation,manual,1.00,approved,,yes
+100600,Office equipment cost,asset,11060,Fixtures and fittings at cost,manual,1.00,approved,,yes
+100700,Office equipment accumulated depreciation,asset,11090,Computer equipment accumulated depreciation,suggested,0.88,review,,yes
+100800,IT hardware cost,asset,,,none,,unmapped,,yes
+100900,IT hardware accumulated depreciation,asset,11030,Plant and machinery accumulated depreciation,suggested,0.76,review,ambiguous;low_confidence;many_to_one,yes
+101000,Capitalised software,asset,11100,Capitalised software,manual,1.00,approved,,yes
+200100,Inventory raw materials,asset,12010,Raw materials inventory,suggested,1.00,review,,yes
+200200,Inventory work in progress,asset,12020,Work in progress inventory,suggested,1.00,review,,yes
+200300,Inventory finished goods,asset,12030,Finished goods inventory,suggested,1.00,review,,yes
+200400,Inventory write-down reserve,asset,,,none,,unmapped,,yes
+200500,Trade receivables domestic,asset,12050,Trade receivables,manual,1.00,approved,many_to_one,yes
+200510,Trade receivables EU,asset,12050,Trade receivables,suggested,0.92,review,many_to_one,yes
+200520,Trade receivables non-EU,asset,12050,Trade receivables,manual,1.00,approved,many_to_one,yes
+200600,Bad debt allowance,asset,12060,Allowance for doubtful debts,suggested,0.67,review,low_confidence,yes
+200700,Other receivables,asset,12070,Other receivables,manual,1.00,approved,,yes
+200800,Prepaid expenses,asset,,,none,,unmapped,,yes
+200900,Accrued income,asset,12090,Accrued income,suggested,1.00,review,,yes
+201000,Input tax 19 percent,asset,,,none,,unmapped,,yes
+201100,Bank 1 main account,asset,12110,Bank current accounts,manual,1.00,approved,,yes
+201200,Bank USD account,asset,,,none,,unmapped,manual_target_unknown,yes
+201300,Cash on hand,asset,,,none,,unmapped,,yes
+201400,Receivables from affiliated companies,asset,12140,Intercompany receivables,suggested,0.69,review,low_confidence,yes
+201500,Security deposits paid,asset,,,none,,unmapped,,yes
+201600,Emissions certificates,asset,,,none,,unmapped,,yes
+400100,Trade payables domestic,liability,21010,Trade payables,suggested,0.76,review,low_confidence;many_to_one,yes
+400110,Trade payables foreign,liability,21010,Trade payables,manual,1.00,approved,many_to_one,yes
+400200,Accrued expenses,liability,21020,Accruals,manual,1.00,approved,,yes
+400300,Goods receipt invoice receipt clearing,liability,21030,Goods received not invoiced,manual,1.00,approved,,yes
+400400,Output tax 19 percent,liability,,,none,,unmapped,,yes
+400500,VAT settlement account,liability,21050,VAT settlement,manual,1.00,approved,,yes
+400600,Wage tax payable,liability,21060,Payroll taxes and social security payable,manual,1.00,approved,many_to_one,yes
+400610,Social security payable,liability,21060,Payroll taxes and social security payable,suggested,0.77,review,low_confidence;many_to_one,yes
+400700,Pension fund payable,liability,21070,Pensions payable,suggested,0.83,review,low_confidence,yes
+400800,Corporate income tax payable,liability,21080,Corporate income tax payable,suggested,1.00,review,,yes
+400900,Short-term loans,liability,21090,Short term loans,manual,1.00,approved,,yes
+401000,Finance lease liabilities current,liability,21100,"Finance lease liabilities, current",suggested,1.00,review,,yes
+401100,Payables to affiliated companies,liability,21110,Intercompany payables,manual,1.00,approved,,yes
+401200,Deferred income,liability,21120,Deferred income,manual,1.00,approved,many_to_one,yes
+401300,Customer prepayments received,liability,21130,Customer deposits,manual,1.00,approved,,yes
+401400,Warranty provision,liability,21140,Warranty provision,suggested,1.00,review,,yes
+401500,Accrued holiday pay,liability,21150,Holiday pay accrual,manual,1.00,approved,,yes
+401600,Clearing account,liability,21160,Suspense and clearing,manual,1.00,approved,,yes
+401700,Investment grants deferred,liability,21120,Deferred income,manual,1.00,approved,many_to_one,yes
+450100,Long-term loans,liability,22010,Long term loans,suggested,1.00,review,,yes
+450200,Finance lease liabilities non-current,liability,22020,"Finance lease liabilities, non-current",suggested,1.00,review,,yes
+450300,Deferred tax liability,liability,22040,Deferred tax liability,manual,1.00,approved,,yes
+300100,Subscribed capital,equity,31010,Share capital,suggested,0.71,review,low_confidence,yes
+300200,Capital reserve,equity,31020,Share premium,manual,1.00,approved,,yes
+300300,Retained earnings brought forward,equity,31030,Retained earnings,manual,1.00,approved,,yes
+500100,Revenue domestic,revenue,41010,"Revenue, castings domestic",suggested,0.78,review,low_confidence,yes
+500200,Revenue EU,revenue,41020,"Revenue, castings export",manual,1.00,approved,many_to_one,yes
+500210,Revenue non-EU,revenue,41020,"Revenue, castings export",manual,1.00,approved,many_to_one,yes
+500300,Revenue tooling,revenue,41030,"Revenue, tooling",manual,1.00,approved,,yes
+500400,Revenue spare parts,revenue,41040,"Revenue, spares and services",manual,1.00,approved,,yes
+500500,Sales deductions,revenue,41050,Sales returns and discounts,manual,1.00,approved,,yes
+500600,Freight income,revenue,41060,Carriage income,manual,1.00,approved,,yes
+500700,Other operating income,revenue,41070,Other operating income,suggested,1.00,review,,yes
+500800,Proceeds from scrap,revenue,,,none,,unmapped,,yes
+600100,Material costs,expense,51010,Raw materials consumed,manual,1.00,approved,,yes
+600200,Production wages,expense,51050,Production consumables,suggested,0.74,review,ambiguous;low_confidence;many_to_one,yes
+600300,External processing,expense,51030,Subcontract processing,manual,1.00,approved,,yes
+600400,Freight-in,expense,51040,Carriage inwards,manual,1.00,approved,,yes
+600500,Operating supplies production,expense,51050,Production consumables,manual,1.00,approved,many_to_one,yes
+600600,Energy production,expense,51060,Production energy,suggested,1.00,review,,yes
+600700,Tools expensed,expense,51070,Tooling expensed,suggested,0.87,review,,yes
+600800,Change in inventories,expense,51080,Change in inventories,manual,1.00,approved,,yes
+600900,Price differences,expense,51090,Purchase price variance,manual,1.00,approved,,yes
+601000,Scrap and rework costs,expense,51100,Scrap and rework,suggested,0.80,review,low_confidence,yes
+601100,Inventory write-offs,expense,51110,Inventory write-offs,suggested,1.00,review,,yes
+700100,Indirect labour,expense,61010,Indirect labour,manual,1.00,approved,,yes
+700200,Salaries administration,expense,,,none,,unmapped,,yes
+700300,Employer social security,expense,61030,Employer social security,suggested,1.00,review,,yes
+700400,Pension expense,expense,61040,Pension costs,manual,1.00,approved,,yes
+700500,Rent,expense,61050,Rent,suggested,1.00,review,,yes
+700600,Property tax,expense,61060,Business rates and property taxes,manual,1.00,approved,,yes
+700700,Utilities offices,expense,61070,"Utilities, offices",manual,1.00,approved,,yes
+700800,Maintenance machinery,expense,,,none,,unmapped,,yes
+700900,Insurance,expense,61090,Insurance,manual,1.00,approved,,yes
+701000,Vehicle costs,expense,61100,Motor expenses,manual,1.00,approved,many_to_one,yes
+701100,Travel expenses,expense,61110,Travel and subsistence,manual,1.00,approved,,yes
+701200,Telecommunications,expense,61120,Telephone and internet,manual,1.00,approved,,yes
+701300,IT services,expense,,,none,,unmapped,,yes
+701310,Software subscriptions,expense,61130,IT costs and subscriptions,suggested,0.73,review,low_confidence,yes
+701400,Legal fees,expense,61140,Legal fees,manual,1.00,approved,,yes
+701500,Audit and tax advisory,expense,61150,Audit and accountancy,manual,1.00,approved,,yes
+701600,Bank fees,expense,61160,Bank charges,manual,1.00,approved,,yes
+701700,Marketing,expense,,,none,,unmapped,,yes
+701800,Training and education,expense,61180,Training,manual,1.00,approved,,yes
+701900,Office supplies,expense,61190,Office supplies and printing,manual,1.00,approved,,yes
+702000,Depreciation technical equipment,expense,61200,"Depreciation, plant and machinery",manual,1.00,approved,,yes
+702100,Depreciation vehicles,expense,61210,"Depreciation, vehicles",suggested,1.00,review,many_to_one,yes
+702200,Depreciation office equipment,expense,61210,"Depreciation, vehicles",suggested,0.68,review,low_confidence;many_to_one,yes
+702210,Amortisation software,expense,,,none,,unmapped,,yes
+702300,Bad debt expense,expense,61230,Bad debt expense,suggested,1.00,review,,yes
+702400,Warranty expense,expense,61240,Warranty costs,suggested,0.67,review,ambiguous;low_confidence,yes
+702500,Occupational safety,expense,61250,Health and safety,manual,1.00,approved,,yes
+702600,Other operating expenses,expense,61100,Motor expenses,suggested,0.68,review,low_confidence;many_to_one,yes
+702700,Packaging disposal levy,expense,,,none,,unmapped,,yes
+702800,Works council costs,expense,,,none,,unmapped,,yes
+900100,Interest expense,Financial result,71010,Interest payable,manual,1.00,approved,type_unknown,yes
+900200,Realised exchange losses,Financial result,,,none,,unmapped,type_unknown,yes
+900300,Income tax expense,Financial result,,,none,,unmapped,type_unknown,yes
+900310,Trade tax expense,Financial result,71030,Corporate income tax expense,manual,1.00,approved,type_unknown,yes
+900400,Deferred tax expense,Financial result,71040,Deferred tax expense,manual,1.00,approved,type_unknown,yes
+910100,Interest income,Financial result,,,none,,unmapped,type_unknown,yes
+910200,Realised exchange gains,Financial result,,,none,,unmapped,type_unknown,yes

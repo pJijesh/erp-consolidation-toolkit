@@ -1,0 +1,96 @@
+{
+  "column_detail": [
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "item_no",
+      "distinct": 52,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "item_text",
+      "distinct": 52,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "unit",
+      "distinct": 6,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 11,
+      "checks": [],
+      "column": "drawing",
+      "distinct": 39,
+      "missing": 11,
+      "missing_rate": 0.2115,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "item_group",
+      "distinct": 5,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "status",
+      "distinct": 1,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    }
+  ],
+  "columns": 6,
+  "dataset": "erp_b_parts.csv",
+  "encoding": "utf-8",
+  "format_checked_values": 0,
+  "format_invalid_rate": null,
+  "format_invalid_values": 0,
+  "identical_rows": 0,
+  "key": {
+    "blank_keys": 0,
+    "column": "item_no",
+    "duplicate_values": 0,
+    "examples": [],
+    "rows_with_duplicate_key": 0
+  },
+  "key_column": "item_no",
+  "key_duplicate_rate": 0.0,
+  "kind": "profile",
+  "name": "erp_b_parts",
+  "required_columns": [
+    "item_no",
+    "item_text",
+    "unit"
+  ],
+  "required_max_missing_rate": 0.0,
+  "rows": 52,
+  "warnings": []
+}

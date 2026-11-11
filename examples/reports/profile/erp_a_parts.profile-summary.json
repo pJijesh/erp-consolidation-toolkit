@@ -1,0 +1,109 @@
+{
+  "column_detail": [
+    {
+      "blank": 0,
+      "checks": [
+        {
+          "check": "regex:^[A-Z]{2}-[0-9]{5}(-[A-Z])?$",
+          "checked": 54,
+          "invalid": 3,
+          "invalid_examples": [
+            "FX 10939 C",
+            "MC 10795 C",
+            "TL 10669 C"
+          ],
+          "invalid_rate": 0.0556,
+          "valid": 51
+        }
+      ],
+      "column": "part_no",
+      "distinct": 54,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "description",
+      "distinct": 53,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "uom",
+      "distinct": 3,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "drawing_no",
+      "distinct": 51,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "category",
+      "distinct": 4,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "status",
+      "distinct": 2,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    }
+  ],
+  "columns": 6,
+  "dataset": "erp_a_parts.csv",
+  "encoding": "utf-8",
+  "format_checked_values": 54,
+  "format_invalid_rate": 0.0556,
+  "format_invalid_values": 3,
+  "identical_rows": 0,
+  "key": {
+    "blank_keys": 0,
+    "column": "part_no",
+    "duplicate_values": 0,
+    "examples": [],
+    "rows_with_duplicate_key": 0
+  },
+  "key_column": "part_no",
+  "key_duplicate_rate": 0.0,
+  "kind": "profile",
+  "name": "erp_a_parts",
+  "required_columns": [
+    "description",
+    "part_no",
+    "uom"
+  ],
+  "required_max_missing_rate": 0.0,
+  "rows": 54,
+  "warnings": []
+}

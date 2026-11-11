@@ -1,0 +1,8 @@
+severity,source_account,issue,detail
+warning,1300,unmapped,no suggestion at or above 0.65. Closest was 12150 Rent and other deposits (0.59).
+warning,2060,type_unknown,"source type 'Taxation' is not recognised, so type checks and type-limited suggestions cannot be applied"
+warning,5040,type_mismatch,source is expense but target 12010 is asset
+warning,5100,unmapped,"no suggestion at or above 0.65. Closest was 61210 Depreciation, vehicles (0.49)."
+warning,7210,unmapped,no suggestion at or above 0.65. Closest was 61040 Pension costs (0.51).
+warning,8030,type_unknown,"source type 'Taxation' is not recognised, so type checks and type-limited suggestions cannot be applied"
+info,1210,many_to_one,"2 source accounts (1210, 5040) map to 12010 Raw materials inventory: confirm that merging their detail is intended"

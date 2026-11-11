@@ -1,0 +1,18 @@
+id,value,evidence
+C01,5,"Same product types, same order to cash flow, same warehouse model."
+C02,4,"Validated business case: licence and support saving plus two finance posts, payback in about 26 months, still positive in the pessimistic case."
+C03,4,Most customers and suppliers are shared. Staff currently re-key orders between systems.
+C04,4,Group stock and margin reporting is assembled by hand each month.
+C05,4,Both support contracts end within 14 months.
+C06,4,"Stable ownership, no disposals planned."
+C07,4,"Mostly standard configuration, a short documented list of extensions."
+C08,5,"Same country, same tax and reporting regime."
+C09,5,"Single currency, same year end, little intercompany trading."
+C10,3,"Backfill funded, but one finance lead is on leave for three months of the plan."
+C11,4,"Readiness scorecard is conditional go, with owners and dates for each amber item."
+C12,4,Managing director sponsors it and chairs a monthly steering group.
+C13,3,"Nine integrations, all documented."
+G01,no,No local statutory requirement beyond what the target covers.
+G02,no,Managing director is accountable for both entities.
+G03,no,No sale or restructure planned.
+G04,no,A vendor reference of similar size exists and a pilot has been run.

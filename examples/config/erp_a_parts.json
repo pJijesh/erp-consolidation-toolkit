@@ -1,0 +1,11 @@
+{
+  "checks": {
+    "part_no": "regex:^[A-Z]{2}-[0-9]{5}(-[A-Z])?$"
+  },
+  "key": "part_no",
+  "required": [
+    "part_no",
+    "description",
+    "uom"
+  ]
+}

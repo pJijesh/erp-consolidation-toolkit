@@ -1,0 +1,55 @@
+part_no,description,uom,drawing_no,category,status
+FX 10939 C,BOLT SET DN80 CAST IRON,BOX,DRG-80939,FIX,Active
+FX-10081,Bolt set DN40 ductile iron,BOX,DRG-80081,FIX,Obsolete
+FX-10296-C,Bolt set DN100 stainless steel,BOX,DRG-80296,FIX,Active
+FX-10341,Gasket pack DN150 stainless steel,BOX,DRG-80341,FIX,Obsolete
+FX-10391-C,Stud kit DN50 ductile iron,SET,DRG-80391,FIX,Active
+FX-10680-C,Stud kit DN25 stainless steel,SET,DRG-80680,FIX,Obsolete
+FX-10708,Stud kit DN150 stainless steel,SET,DRG-80708,FIX,Active
+FX-10817,Gasket pack DN50 ductile iron,BOX,DRG-80817,FIX,Active
+FX-10939-C,Bolt set DN80 cast iron,BOX,DRG-80939,FIX,Active
+MC 10795 C,GATE VALVE BODY DN50 STAINLESS STEEL,EA,DRG-80795,CAST,Active
+MC-10135-B,Gate valve body DN40 cast iron,EA,DRG-80135,CAST,Active
+MC-10152-C,Pump housing DN150 cast iron,EA,DRG-80152,CAST,Active
+MC-10218-C,Gate valve body DN150 ductile iron,EA,DRG-80218,CAST,Active
+MC-10249-C,Flange blank DN80 ductile iron,EA,DRG-80249,CAST,Active
+MC-10263,Pump housing DN50 bronze,EA,DRG-80263,CAST,Active
+MC-10337,Impeller DN100 ductile iron,EA,DRG-80337,CAST,Active
+MC-10351,Impeller DN150 stainless steel,EA,DRG-80351,CAST,Active
+MC-10473,Impeller DN80 ductile iron,EA,DRG-80473,CAST,Active
+MC-10518,Gate valve body DN150 bronze,EA,DRG-80518,CAST,Active
+MC-10593,Flange blank DN25 ductile iron,EA,DRG-80593,CAST,Obsolete
+MC-10648-B,Impeller DN100 stainless steel,EA,DRG-80648,CAST,Obsolete
+MC-10765,Gate valve body DN25 cast iron,EA,DRG-80765,CAST,Obsolete
+MC-10795-C,Gate valve body DN50 stainless steel,EA,DRG-80795,CAST,Active
+MC-10844,Pump housing DN50 ductile iron,EA,DRG-80844,CAST,Active
+MC-10876-B,Pump housing DN80 bronze,EA,DRG-80876,CAST,Active
+MC-10890-B,Pump housing DN100 cast iron,EA,DRG-80890,CAST,Active
+MC-10990,Impeller DN80 cast iron,EA,DRG-80990,CAST,Active
+MM-10033,Gland follower DN80 bronze,EA,DRG-80033,MACH,Active
+MM-10037-B,Bearing bracket DN80 bronze,EA,DRG-80037,MACH,Active
+MM-10038,Bearing bracket DN80 bronze,EA,DRG-80037x,MACH,Active
+MM-10052,Seal ring DN40 ductile iron,EA,DRG-80052,MACH,Obsolete
+MM-10095,Gland follower DN80 cast iron,EA,DRG-80095,MACH,Active
+MM-10178,Shaft sleeve DN50 ductile iron,EA,DRG-80178,MACH,Active
+MM-10329-B,Seal ring DN80 stainless steel,EA,DRG-80329,MACH,Active
+MM-10459-C,Shaft sleeve DN150 cast iron,EA,DRG-80459,MACH,Active
+MM-10578,Seal ring DN25 ductile iron,EA,DRG-80578,MACH,Active
+MM-10654,Gland follower DN25 cast iron,EA,DRG-80654,MACH,Active
+MM-10661-C,Bearing bracket DN150 ductile iron,EA,DRG-80661,MACH,Active
+MM-10742-B,Seal ring DN25 cast iron,EA,DRG-80742,MACH,Active
+MM-10751,Gland follower DN50 stainless steel,EA,DRG-80751,MACH,Active
+MM-10942,Gland follower DN100 ductile iron,EA,DRG-80942,MACH,Active
+MM-10971,Bearing bracket DN40 stainless steel,EA,DRG-80971,MACH,Active
+MM-11017-C,Shaft sleeve DN40 cast iron,EA,DRG-81017,MACH,Active
+MM-11050,Seal ring DN50 stainless steel,EA,DRG-81050,MACH,Obsolete
+TL 10669 C,CORE BOX DN25 BRONZE,EA,DRG-80669,TOOL,Active
+TL-10044-C,Pattern plate DN150 bronze,EA,DRG-80044,TOOL,Obsolete
+TL-10396,Pattern plate DN40 stainless steel,EA,DRG-80396,TOOL,Obsolete
+TL-10432-C,Core box DN100 ductile iron,EA,DRG-80432,TOOL,Active
+TL-10488-B,Core box DN150 bronze,EA,DRG-80488,TOOL,Active
+TL-10553,Pattern plate DN80 stainless steel,EA,DRG-80553,TOOL,Active
+TL-10633,Core box DN40 stainless steel,EA,DRG-80633,TOOL,Active
+TL-10642-C,Pattern plate DN100 stainless steel,EA,DRG-80642,TOOL,Active
+TL-10669-C,Core box DN25 bronze,EA,DRG-80669,TOOL,Active
+TL-10925,Pattern plate DN50 bronze,EA,DRG-80925,TOOL,Active

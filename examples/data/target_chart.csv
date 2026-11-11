@@ -1,0 +1,111 @@
+account,name,type,group,postable
+11000,Fixed assets,asset,Fixed assets,n
+11010,Freehold land and buildings,asset,Fixed assets,y
+11020,Plant and machinery at cost,asset,Fixed assets,y
+11030,Plant and machinery accumulated depreciation,asset,Fixed assets,y
+11040,Motor vehicles at cost,asset,Fixed assets,y
+11050,Motor vehicles accumulated depreciation,asset,Fixed assets,y
+11060,Fixtures and fittings at cost,asset,Fixed assets,y
+11070,Fixtures and fittings accumulated depreciation,asset,Fixed assets,y
+11080,Computer equipment at cost,asset,Fixed assets,y
+11090,Computer equipment accumulated depreciation,asset,Fixed assets,y
+11100,Capitalised software,asset,Fixed assets,y
+12000,Current assets,asset,Current assets,n
+12010,Raw materials inventory,asset,Current assets,y
+12020,Work in progress inventory,asset,Current assets,y
+12030,Finished goods inventory,asset,Current assets,y
+12040,Inventory provision,asset,Current assets,y
+12050,Trade receivables,asset,Current assets,y
+12060,Allowance for doubtful debts,asset,Current assets,y
+12070,Other receivables,asset,Current assets,y
+12080,Prepayments,asset,Current assets,y
+12090,Accrued income,asset,Current assets,y
+12100,Input VAT recoverable,asset,Current assets,y
+12110,Bank current accounts,asset,Current assets,y
+12120,Bank foreign currency accounts,asset,Current assets,y
+12130,Petty cash,asset,Current assets,y
+12140,Intercompany receivables,asset,Current assets,y
+12150,Rent and other deposits,asset,Current assets,y
+21000,Current liabilities,liability,Current liabilities,n
+21010,Trade payables,liability,Current liabilities,y
+21020,Accruals,liability,Current liabilities,y
+21030,Goods received not invoiced,liability,Current liabilities,y
+21040,Output VAT,liability,Current liabilities,y
+21050,VAT settlement,liability,Current liabilities,y
+21060,Payroll taxes and social security payable,liability,Current liabilities,y
+21070,Pensions payable,liability,Current liabilities,y
+21080,Corporate income tax payable,liability,Current liabilities,y
+21090,Short term loans,liability,Current liabilities,y
+21100,"Finance lease liabilities, current",liability,Current liabilities,y
+21110,Intercompany payables,liability,Current liabilities,y
+21120,Deferred income,liability,Current liabilities,y
+21130,Customer deposits,liability,Current liabilities,y
+21140,Warranty provision,liability,Current liabilities,y
+21150,Holiday pay accrual,liability,Current liabilities,y
+21160,Suspense and clearing,liability,Current liabilities,y
+22000,Long term liabilities,liability,Long term liabilities,n
+22010,Long term loans,liability,Long term liabilities,y
+22020,"Finance lease liabilities, non-current",liability,Long term liabilities,y
+22030,Shareholder and director loans,liability,Long term liabilities,y
+22040,Deferred tax liability,liability,Long term liabilities,y
+31000,Equity,equity,Equity,n
+31010,Share capital,equity,Equity,y
+31020,Share premium,equity,Equity,y
+31030,Retained earnings,equity,Equity,y
+31040,Revaluation reserve,equity,Equity,y
+41000,Revenue,revenue,Revenue,n
+41010,"Revenue, castings domestic",revenue,Revenue,y
+41020,"Revenue, castings export",revenue,Revenue,y
+41030,"Revenue, tooling",revenue,Revenue,y
+41040,"Revenue, spares and services",revenue,Revenue,y
+41050,Sales returns and discounts,revenue,Revenue,y
+41060,Carriage income,revenue,Revenue,y
+41070,Other operating income,revenue,Revenue,y
+41080,Scrap sales,revenue,Revenue,y
+51000,Cost of sales,expense,Cost of sales,n
+51010,Raw materials consumed,expense,Cost of sales,y
+51020,Direct labour,expense,Cost of sales,y
+51030,Subcontract processing,expense,Cost of sales,y
+51040,Carriage inwards,expense,Cost of sales,y
+51050,Production consumables,expense,Cost of sales,y
+51060,Production energy,expense,Cost of sales,y
+51070,Tooling expensed,expense,Cost of sales,y
+51080,Change in inventories,expense,Cost of sales,y
+51090,Purchase price variance,expense,Cost of sales,y
+51100,Scrap and rework,expense,Cost of sales,y
+51110,Inventory write-offs,expense,Cost of sales,y
+61000,Overheads,expense,Overheads,n
+61010,Indirect labour,expense,Overheads,y
+61020,Salaries,expense,Overheads,y
+61030,Employer social security,expense,Overheads,y
+61040,Pension costs,expense,Overheads,y
+61050,Rent,expense,Overheads,y
+61060,Business rates and property taxes,expense,Overheads,y
+61070,"Utilities, offices",expense,Overheads,y
+61080,Repairs and maintenance,expense,Overheads,y
+61090,Insurance,expense,Overheads,y
+61100,Motor expenses,expense,Overheads,y
+61110,Travel and subsistence,expense,Overheads,y
+61120,Telephone and internet,expense,Overheads,y
+61130,IT costs and subscriptions,expense,Overheads,y
+61140,Legal fees,expense,Overheads,y
+61150,Audit and accountancy,expense,Overheads,y
+61160,Bank charges,expense,Overheads,y
+61170,Marketing and advertising,expense,Overheads,y
+61180,Training,expense,Overheads,y
+61190,Office supplies and printing,expense,Overheads,y
+61200,"Depreciation, plant and machinery",expense,Overheads,y
+61210,"Depreciation, vehicles",expense,Overheads,y
+61220,"Depreciation, other",expense,Overheads,y
+61230,Bad debt expense,expense,Overheads,y
+61240,Warranty costs,expense,Overheads,y
+61250,Health and safety,expense,Overheads,y
+61260,Sundry expenses,expense,Overheads,y
+71000,Finance costs and tax,expense,Finance costs and tax,n
+71010,Interest payable,expense,Finance costs and tax,y
+71020,Exchange losses,expense,Finance costs and tax,y
+71030,Corporate income tax expense,expense,Finance costs and tax,y
+71040,Deferred tax expense,expense,Finance costs and tax,y
+72000,Finance income,revenue,Finance income,n
+72010,Interest receivable,revenue,Finance income,y
+72020,Exchange gains,revenue,Finance income,y

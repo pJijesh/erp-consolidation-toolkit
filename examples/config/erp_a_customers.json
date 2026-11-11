@@ -1,0 +1,15 @@
+{
+  "checks": {
+    "created": "date:%Y-%m-%d|%d/%m/%Y",
+    "email": "email",
+    "postcode": "postcode",
+    "vat_no": "tax"
+  },
+  "country_column": "country",
+  "key": "cust_id",
+  "required": [
+    "cust_id",
+    "cust_name",
+    "postcode"
+  ]
+}

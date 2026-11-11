@@ -1,0 +1,18 @@
+id,value,evidence
+C01,4,"Both make cast and sealing components to order, with similar routings. Quoting differs: ERP A prices per tonne, ERP B per unit."
+C02,3,"Finance estimates a saving on licences and one finance post, but one-off cost is not yet costed. Payback range is two to five years."
+C03,3,Nine proposed customer merge groups include records from both systems (see examples/reports/dedupe/customers.dedupe-report.md).
+C04,4,Month end consolidation takes nine working days and relies on spreadsheets. One audit point on intercompany balances last year.
+C05,2,ERP A support ends in nine months. ERP B has a contract with 30 months left and a termination fee.
+C06,4,No disposals planned. Both entities are expected to stay in the group.
+C07,2,"ERP B has about forty bespoke reports and four custom interfaces, only partly documented."
+C08,2,UK and German entities. Local statutory reporting and German e-invoicing rules need to be confirmed against the target.
+C09,2,"GBP and EUR, different year ends, regular intercompany trading."
+C10,2,Finance is stretched by the audit cycle and a separate treasury project runs to the end of the year.
+C11,2,"Readiness scorecard is NO-GO: duplicate keys, mapping coverage of 50 percent for ERP B."
+C12,3,"Group finance director sponsors it, but the German managing director has not yet agreed to the scope."
+C13,3,"Twelve integrations in total, eight documented."
+G01,no,"Statutory books can be produced in the target, subject to confirmation (see C08)."
+G02,no,Group finance director is accountable for both entities.
+G03,no,No sale or restructure planned.
+G04,yes,The target platform has not yet been piloted with either entity's costing process.

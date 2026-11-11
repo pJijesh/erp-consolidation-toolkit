@@ -1,0 +1,171 @@
+{
+  "kind": "reconcile",
+  "largest_absolute_difference": "328056.09",
+  "name": "erp_a",
+  "periods": 3,
+  "periods_detail": [
+    {
+      "class_detail": {
+        "asset": {
+          "after": "9865211.06",
+          "before": "9796232.54",
+          "reclassified": "68978.52",
+          "unmapped": "0.00"
+        },
+        "equity": {
+          "after": "-5687906.57",
+          "before": "-5687906.57",
+          "reclassified": "0.00",
+          "unmapped": "0.00"
+        },
+        "expense": {
+          "after": "1888429.27",
+          "before": "1932830.13",
+          "reclassified": "-44400.86",
+          "unmapped": "0.00"
+        },
+        "liability": {
+          "after": "-4589328.61",
+          "before": "-4500107.10",
+          "reclassified": "-89221.51",
+          "unmapped": "0.00"
+        },
+        "revenue": {
+          "after": "-1476405.15",
+          "before": "-1476405.15",
+          "reclassified": "0.00",
+          "unmapped": "0.00"
+        },
+        "unclassified": {
+          "after": "0.00",
+          "before": "-64643.85",
+          "reclassified": "64643.85",
+          "unmapped": "0.00"
+        }
+      },
+      "flags": "reclassification",
+      "mapped_net": "0.00",
+      "period": "2026-01",
+      "reclassified_abs": "133622.37",
+      "source_credit": "14792015.14",
+      "source_debit": "14792015.14",
+      "source_net": "0.00",
+      "status": "DIFFERENCES",
+      "target_tb_differences": 0,
+      "unmapped_accounts_with_balance": 0,
+      "unmapped_net": "0.00"
+    },
+    {
+      "class_detail": {
+        "asset": {
+          "after": "9905597.82",
+          "before": "9772218.05",
+          "reclassified": "133379.77",
+          "unmapped": "0.00"
+        },
+        "equity": {
+          "after": "-6138871.49",
+          "before": "-6138871.49",
+          "reclassified": "0.00",
+          "unmapped": "0.00"
+        },
+        "expense": {
+          "after": "3778963.75",
+          "before": "3861241.63",
+          "reclassified": "-82277.88",
+          "unmapped": "0.00"
+        },
+        "liability": {
+          "after": "-4637888.28",
+          "before": "-4541147.12",
+          "reclassified": "-96741.16",
+          "unmapped": "0.00"
+        },
+        "revenue": {
+          "after": "-2907801.80",
+          "before": "-2907801.80",
+          "reclassified": "0.00",
+          "unmapped": "0.00"
+        },
+        "unclassified": {
+          "after": "0.00",
+          "before": "-45639.27",
+          "reclassified": "45639.27",
+          "unmapped": "0.00"
+        }
+      },
+      "flags": "reclassification;target_tb_difference",
+      "mapped_net": "0.00",
+      "period": "2026-02",
+      "reclassified_abs": "179019.04",
+      "source_credit": "16672945.18",
+      "source_debit": "16672945.18",
+      "source_net": "0.00",
+      "status": "DIFFERENCES",
+      "target_tb_differences": 1,
+      "unmapped_accounts_with_balance": 0,
+      "unmapped_net": "0.00"
+    },
+    {
+      "class_detail": {
+        "asset": {
+          "after": "10337456.22",
+          "before": "10139606.52",
+          "reclassified": "197849.70",
+          "unmapped": "0.00"
+        },
+        "equity": {
+          "after": "-7139721.35",
+          "before": "-7139721.35",
+          "reclassified": "0.00",
+          "unmapped": "0.00"
+        },
+        "expense": {
+          "after": "5707679.16",
+          "before": "5830061.25",
+          "reclassified": "-122382.09",
+          "unmapped": "0.00"
+        },
+        "liability": {
+          "after": "-4653025.60",
+          "before": "-4566453.47",
+          "reclassified": "-86572.13",
+          "unmapped": "0.00"
+        },
+        "revenue": {
+          "after": "-4252388.43",
+          "before": "-4252388.43",
+          "reclassified": "0.00",
+          "unmapped": "0.00"
+        },
+        "unclassified": {
+          "after": "0.00",
+          "before": "-11104.52",
+          "reclassified": "11104.52",
+          "unmapped": "0.00"
+        }
+      },
+      "flags": "reclassification;target_tb_difference",
+      "mapped_net": "0.00",
+      "period": "2026-03",
+      "reclassified_abs": "208954.22",
+      "source_credit": "19057370.40",
+      "source_debit": "19057370.40",
+      "source_net": "0.00",
+      "status": "DIFFERENCES",
+      "target_tb_differences": 1,
+      "unmapped_accounts_with_balance": 0,
+      "unmapped_net": "0.00"
+    }
+  ],
+  "periods_ok": 0,
+  "periods_with_differences": 3,
+  "reclassification_accepted": false,
+  "target_tb_compared": true,
+  "target_tb_differences": 2,
+  "tolerance": "0.05",
+  "unmapped_accounts_with_balance": 0,
+  "warnings": [
+    "3 unmapped or unapproved row(s) in erp_a.mapping.csv were not used."
+  ]
+}

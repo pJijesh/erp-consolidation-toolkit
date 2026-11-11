@@ -1,0 +1,17 @@
+flowchart TD
+    D{{"decide<br/>score the case and the ability to deliver"}}
+    D -->|Keep separate| K["Stop here<br/>improve group reporting only"]
+    D -->|Partially integrate| P["Shared master data and a reporting layer<br/>no common ledger"]
+    D -->|Consolidate| E["Extract CSVs from each ERP<br/>read only, no connection"]
+    P --> E
+    E --> PR["profile<br/>missing values, duplicate keys, bad formats"]
+    PR --> C["Cleanse at source<br/>data owners fix, the tool measures"]
+    C --> M["map-coa<br/>manual mapping first, then suggestions"]
+    C --> DD["dedupe<br/>customers, suppliers, parts"]
+    M --> R["reconcile<br/>trial balance before and after the mapping"]
+    PR --> G
+    M --> G
+    DD --> G
+    R --> G{{"readiness<br/>green, amber or red scorecard"}}
+    G -->|NO-GO| C
+    G -->|CONDITIONAL GO or GO| H["Named people decide<br/>then trial load, rehearse, cut over"]

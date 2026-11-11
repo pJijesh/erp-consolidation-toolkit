@@ -1,0 +1,18 @@
+id,value,evidence
+C01,1,One entity makes components. The other provides a regulated service with its own client money rules.
+C02,2,Savings are mostly licence cost. Estimated one-off cost is higher than five years of savings.
+C03,1,No shared customers or suppliers.
+C04,2,Each entity reports on time. Group reporting needs only a monthly summary.
+C05,2,Contracts end three years apart.
+C06,3,"Stable, but the group is considering a partner for the service business."
+C07,2,The regulated entity relies on a specialist system with heavy configuration.
+C08,1,The regulated entity must keep books in a form set by its regulator.
+C09,3,"Single currency, different year ends."
+C10,3,"Capacity exists in the manufacturer, not in the service entity."
+C11,3,Data in reasonable shape in the manufacturer.
+C12,3,"Sponsor is the group finance director, who has no authority over the regulated entity's systems."
+C13,2,Several regulator and client integrations that cannot be moved.
+G01,yes,Regulator requires the specialist system for client money.
+G02,no,Group finance director is accountable for reporting.
+G03,no,"Not agreed, only under discussion."
+G04,yes,Target not proven for client money handling.

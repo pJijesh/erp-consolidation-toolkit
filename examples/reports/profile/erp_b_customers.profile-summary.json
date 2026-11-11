@@ -1,0 +1,187 @@
+{
+  "column_detail": [
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "account_no",
+      "distinct": 40,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "account_name",
+      "distinct": 42,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 4
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "street",
+      "distinct": 38,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 1,
+      "checks": [],
+      "column": "town",
+      "distinct": 20,
+      "missing": 1,
+      "missing_rate": 0.0238,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 1,
+      "checks": [
+        {
+          "check": "postcode",
+          "checked": 41,
+          "invalid": 3,
+          "invalid_examples": [
+            "0194",
+            "3043",
+            "4715"
+          ],
+          "invalid_rate": 0.0732,
+          "valid": 38
+        }
+      ],
+      "column": "zip",
+      "distinct": 38,
+      "missing": 1,
+      "missing_rate": 0.0238,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "country_code",
+      "distinct": 4,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 8,
+      "checks": [
+        {
+          "check": "tax",
+          "checked": 34,
+          "invalid": 3,
+          "invalid_examples": [
+            "088948167",
+            "614211964",
+            "641433961"
+          ],
+          "invalid_rate": 0.0882,
+          "valid": 31
+        }
+      ],
+      "column": "tax_id",
+      "distinct": 33,
+      "missing": 8,
+      "missing_rate": 0.1905,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 5,
+      "checks": [
+        {
+          "check": "email",
+          "checked": 37,
+          "invalid": 4,
+          "invalid_examples": [
+            "accounts@garshaw-manufacturing.example ",
+            "accounts@harnham-bearings.example ",
+            "accounts@tavdale-logistics.example ",
+            "accountsbrelthorn-metals.example"
+          ],
+          "invalid_rate": 0.1081,
+          "valid": 33
+        }
+      ],
+      "column": "contact_email",
+      "distinct": 33,
+      "missing": 5,
+      "missing_rate": 0.119,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 3
+    },
+    {
+      "blank": 0,
+      "checks": [
+        {
+          "check": "date:%d.%m.%Y",
+          "checked": 42,
+          "formats_seen": {
+            "%d.%m.%Y": 42
+          },
+          "invalid": 0,
+          "invalid_examples": [],
+          "invalid_rate": 0.0,
+          "mixed_formats": false,
+          "valid": 42
+        }
+      ],
+      "column": "date_created",
+      "distinct": 42,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    }
+  ],
+  "columns": 9,
+  "dataset": "erp_b_customers.csv",
+  "encoding": "cp1252",
+  "format_checked_values": 154,
+  "format_invalid_rate": 0.0649,
+  "format_invalid_values": 10,
+  "identical_rows": 0,
+  "key": {
+    "blank_keys": 0,
+    "column": "account_no",
+    "duplicate_values": 2,
+    "examples": [
+      "K400104",
+      "K400112"
+    ],
+    "rows_with_duplicate_key": 4
+  },
+  "key_column": "account_no",
+  "key_duplicate_rate": 0.0952,
+  "kind": "profile",
+  "name": "erp_b_customers",
+  "required_columns": [
+    "account_name",
+    "account_no",
+    "zip"
+  ],
+  "required_max_missing_rate": 0.0238,
+  "rows": 42,
+  "warnings": [
+    "The file is not valid UTF-8, so it was read as Windows-1252. Check that accented characters look right, or re-export as UTF-8."
+  ]
+}

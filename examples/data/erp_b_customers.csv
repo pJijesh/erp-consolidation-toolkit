@@ -1,0 +1,43 @@
+account_no;account_name;street;town;zip;country_code;tax_id;contact_email;date_created
+K400104;FENNOCK INTERNATIONAL LTD;Unit 14, Enterprise Street;Telford;TF2 5GN;GB;;;19.11.2024
+K400104;Brynbrook Testing Services GmbH & Co. KG;Bahnhofstraße 2;Mannheim;68220;DE;;accounts@brynbrook-testingservices.example;14.07.2024
+K400108;Quenhurst Trading;Unit 21, Brook Park;Swindon;SN1 1GY;GB;GB752723906;accounts@quenhurst-testingservices.example;01.02.2023
+K400112;Helisk Hydraulics Limited;Unit 13, Canal Lane;Wolverhampton;WV16 6TT;GBR;GB869561739;accounts@helisk-hydraulics.example;11.04.2019
+K400112;Kesbrae Haulage GmbH;Schmiedegasse 58;Hannover;30680;DE;;accounts@kesbrae-haulage.example;06.05.2019
+K400113;Eskisk Fixings GmbH;Am Hafen 10;Augsburg;86038;DEU;DE845355987;accounts@eskisk-fixings.example;16.02.2025
+K400120;ESKISK FIXINGS GMBH;Am Hafen 10;Augsburg;86038;DE;DE 845 355 987;accounts@eskisk-fixings.example;08.06.2018
+K400124;Tavane Electrical GmbH;Gewerbepark 4;Duisburg;47594;DE;088948167;accounts@tavvane-electrical.example;12.04.2025
+K400128;Hoxden Abrasives GmbH.;Gewerbepark 45;Köln;50246;DE;;accounts@hoxden-abrasives.example;17.02.2022
+K400129;HARNDALE PACKAGING GMBH;Gewerbepark 39;Hannover;3043;DE;;accounts@harndale-packaging.example;12.03.2025
+K400131;Helhrst Testing Services Limited;Unit 27, Foundry Lane;Stoke-on-Trent;ST1 4LA;GBR;641433961;accounts@helhurst-testingservices.example;21.02.2020
+K400134;Allied Component Services;Unit 14, Station Street;Stoke-on-Trent;ST8 3LT;GBR;GB456570574;;06.04.2023
+K400138;Falmoor Haulage GmbH & Co. KG;Bahnhofstraße 34;Düsseldorf;40837;DE;DE944224984;accounts@falmoor-haulage.example;12.06.2024
+K400140;Aldwyn Fabrications,  KG;Gewerbepark 6;Nürnberg;40969;DE;DE120252198;accounts@aldwyn-fabrications.example;17.08.2023
+K400142;Kelcroft Heat Treatment Limited;Unit 27, Quarry Lane;Swindon;;GBR;GB779823852;accounts@kelcroft-heattreatment.example;15.07.2023
+K400143;Kelcroft Heat Treatment Ltd;Unit 27, Quarry Lane;Swindon;SN5 2EJ;GBR;GB779823852;accounts@kelcroft-heattreatment.example;15.12.2019
+K400146;Yolbrook Fasteners Limited;Unit 10, Foundry Park;Redditch;B4 3NQ;GB;GB799819537;accounts@yolbrook-fasteners.example;25.01.2020
+K400149;Falford Tooling GmbH;Hüttenweg 36;Duisburg;4715;DE;DE102984359;accounts@falford-tooling.example;27.02.2023
+K400151;Wilstead Tooling,  Limited;Unit 31, Enterprise Road;Stoke-on-Trent;WS16 4EQ;GBR;GB231469373;;08.12.2018
+K400152;Yarford Steel Stockholders AG;Schmiedegasse 28;Duisburg;47588;DEU;DE862908905;accounts@yarford-steelstockholders.example;06.08.2025
+K400153;Crevham Electrical GmbH;Werkstraße 17;Duisburg;47833;DE;DE019281775;accounts@crevham-electrical.example;04.12.2020
+K400156;Harnham Bearings AG;Industriestraße 51;Stuttgart;70154;DE;DE782545838;accounts@harnham-bearings.example ;14.04.2020
+K400157;Yoltrel Fabrications Ltd;Unit 24, Industrial Park;Stoke-on-Trent;ST12 6UT;GBR;GB578372495;accounts@yoltrel-fabrications.example;07.02.2023
+K400161;Calwarth Bearings GmbH;Gewerbepark 28;Dresden;01129;DE;DE674505428;accounts@calwarth-bearings.example;20.04.2021
+K400163;Ormmarrow Hydraulics GmbH;Schmiedegasse 19;Dresden;01944;DE;DE579170529;accounts@ormmarrow-hydraulics.example;06.03.2022
+K400164;Yolham Valves Ltd;Unit 34, Quarry Park;;CF1 8RW;GB;GB557364478;accounts@yolham-valves.example;03.04.2024
+K400167;Jorley Manufacturing Limited;Unit 28, Canal Lane;Sheffield;S13 8DY;GBR;;accounts@jorley-manufacturing.example;14.10.2022
+K400169;Baxshaw Machining KG;Am Hafen 53;Düsseldorf;40325;DEU;DE121652029;accounts@baxshaw-machining.example;02.10.2025
+K400171;Ostisk Controls,  Ltd;Unit 9, Canal Road;Redditch;NG13 6NE;GBR;GB020142470;accounts@ostisk-controls.example;21.08.2025
+K400174;FYNLEY PLASTICS LTD;Unit 35, Foundry Street;Coventry;cv59dl;GB;GB 200 280 660;;08.12.2021
+K400176;BAXSHAW MACHINING KG;Am Hafen 53;Düsseldorf;40325;DEU;DE 121 652 029;accounts@baxshaw-machining.example;12.07.2018
+K400177;Sarden Controls AG;Industriestraße 27;Essen;45695;DE;DE771217125;accounts@sarden-controls.example;03.07.2018
+K400178;Home Counties Industrial;Unit 21, Canal Lane;Nottingham;NG12 7DN;GBR;GB951516046;;13.03.2021
+K400180;Kesstead Packaging GmbH & Co. KG;Hüttenweg 5;Dresden;0194;DEU;DE924618094;accounts@kesstead-packaging.example;21.10.2023
+K400181;Dortrel Manufacturing GmbH u. Co. KG;Gewerbepark 18;Köln;50364;DEU;DE 290 879 887;accounts@dortrel-manufacturing.example;13.08.2024
+K400184;Sarden Controls,  AG;Industriestraße 27;Essen;45695;DEU;;accounts@sarden-controls.example;24.03.2025
+K400187;Brelthorn Metals plc;Unit 17, Mill Park;Bolton;BL11 1AJ;GBR;;accountsbrelthorn-metals.example;22.04.2023
+K400191;Selhaw Pumps Ltd;Unit 7, Industrial Lane;Leeds;LS5 8UH;GB;614211964;accounts@selshaw-pumps.example;01.08.2022
+K400192;GARSHAW MANUFACTURING LIMITED;Unit 37, Canal Park;Sheffield;s174pu;GB;GB 076 901 838;accounts@garshaw-manufacturing.example ;11.06.2023
+K400194;Lorwick Hydraulics KG;Gewerbepark 3;Nürnberg;90157;DEU;DE005360953;accounts@lorwick-hydraulics.example;09.06.2019
+K400198;Venmere Plastics Supplies Limited;Unit 1, Trap Road;Leeds;WV99 1ZZ;GBR;GB168700631;accounts@venmere-plastics.example;13.02.2018
+K400199;Tavdale Logistics GmbH;Bahnhofstraße 41;Mannheim;68031;DE;DE616246063;accounts@tavdale-logistics.example ;11.03.2025

@@ -1,0 +1,209 @@
+{
+  "ability_score": 29.7,
+  "case_score": 57.7,
+  "gates_hit": [
+    "G04"
+  ],
+  "kind": "decision",
+  "name": "two-manufacturers",
+  "outcome": "PARTIALLY INTEGRATE",
+  "reasons": [
+    "Case 57.7 is between 40 and 65: some shared benefit, not enough to justify a full migration.",
+    "Gate(s) answered yes, which would cap the outcome at partial integration: G04."
+  ],
+  "scores": [
+    {
+      "axis": "case",
+      "evidence": "Both make cast and sealing components to order, with similar routings. Quoting differs: ERP A prices per tonne, ERP B per unit.",
+      "id": "C01",
+      "kind": "criterion",
+      "name": "Process similarity",
+      "value": "4",
+      "weight": 3
+    },
+    {
+      "axis": "case",
+      "evidence": "Finance estimates a saving on licences and one finance post, but one-off cost is not yet costed. Payback range is two to five years.",
+      "id": "C02",
+      "kind": "criterion",
+      "name": "Commercial case",
+      "value": "3",
+      "weight": 3
+    },
+    {
+      "axis": "case",
+      "evidence": "Nine proposed customer merge groups include records from both systems (see examples/reports/dedupe/customers.dedupe-report.md).",
+      "id": "C03",
+      "kind": "criterion",
+      "name": "Shared customers, suppliers and parts",
+      "value": "3",
+      "weight": 2
+    },
+    {
+      "axis": "case",
+      "evidence": "Month end consolidation takes nine working days and relies on spreadsheets. One audit point on intercompany balances last year.",
+      "id": "C04",
+      "kind": "criterion",
+      "name": "Group reporting and control pain",
+      "value": "4",
+      "weight": 2
+    },
+    {
+      "axis": "case",
+      "evidence": "ERP A support ends in nine months. ERP B has a contract with 30 months left and a termination fee.",
+      "id": "C05",
+      "kind": "criterion",
+      "name": "Contract and licence timing",
+      "value": "2",
+      "weight": 2
+    },
+    {
+      "axis": "case",
+      "evidence": "No disposals planned. Both entities are expected to stay in the group.",
+      "id": "C06",
+      "kind": "criterion",
+      "name": "Strategic stability",
+      "value": "4",
+      "weight": 1
+    },
+    {
+      "axis": "ability",
+      "evidence": "ERP B has about forty bespoke reports and four custom interfaces, only partly documented.",
+      "id": "C07",
+      "kind": "criterion",
+      "name": "Customisation depth",
+      "value": "2",
+      "weight": 3
+    },
+    {
+      "axis": "ability",
+      "evidence": "UK and German entities. Local statutory reporting and German e-invoicing rules need to be confirmed against the target.",
+      "id": "C08",
+      "kind": "criterion",
+      "name": "Regulatory and statutory differences",
+      "value": "2",
+      "weight": 3
+    },
+    {
+      "axis": "ability",
+      "evidence": "GBP and EUR, different year ends, regular intercompany trading.",
+      "id": "C09",
+      "kind": "criterion",
+      "name": "Currency and legal entity complexity",
+      "value": "2",
+      "weight": 2
+    },
+    {
+      "axis": "ability",
+      "evidence": "Finance is stretched by the audit cycle and a separate treasury project runs to the end of the year.",
+      "id": "C10",
+      "kind": "criterion",
+      "name": "Change capacity",
+      "value": "2",
+      "weight": 3
+    },
+    {
+      "axis": "ability",
+      "evidence": "Readiness scorecard is NO-GO: duplicate keys, mapping coverage of 50 percent for ERP B.",
+      "id": "C11",
+      "kind": "criterion",
+      "name": "Data quality and master data readiness",
+      "value": "2",
+      "weight": 2
+    },
+    {
+      "axis": "ability",
+      "evidence": "Group finance director sponsors it, but the German managing director has not yet agreed to the scope.",
+      "id": "C12",
+      "kind": "criterion",
+      "name": "Sponsor and governance strength",
+      "value": "3",
+      "weight": 2
+    },
+    {
+      "axis": "ability",
+      "evidence": "Twelve integrations in total, eight documented.",
+      "id": "C13",
+      "kind": "criterion",
+      "name": "Integration and interface footprint",
+      "value": "3",
+      "weight": 1
+    },
+    {
+      "axis": "",
+      "evidence": "Statutory books can be produced in the target, subject to confirmation (see C08).",
+      "id": "G01",
+      "kind": "gate",
+      "name": "Local system or statutory books required",
+      "value": "no",
+      "weight": 0
+    },
+    {
+      "axis": "",
+      "evidence": "Group finance director is accountable for both entities.",
+      "id": "G02",
+      "kind": "gate",
+      "name": "No accountable executive sponsor",
+      "value": "no",
+      "weight": 0
+    },
+    {
+      "axis": "",
+      "evidence": "No sale or restructure planned.",
+      "id": "G03",
+      "kind": "gate",
+      "name": "Sale or restructure expected",
+      "value": "no",
+      "weight": 0
+    },
+    {
+      "axis": "",
+      "evidence": "The target platform has not yet been piloted with either entity's costing process.",
+      "id": "G04",
+      "kind": "gate",
+      "name": "Target platform unproven",
+      "value": "yes",
+      "weight": 0
+    }
+  ],
+  "sensitivity": [],
+  "warnings": [],
+  "weak_criteria": [
+    {
+      "axis": "ability",
+      "id": "C07",
+      "name": "Customisation depth",
+      "score": 2
+    },
+    {
+      "axis": "ability",
+      "id": "C08",
+      "name": "Regulatory and statutory differences",
+      "score": 2
+    },
+    {
+      "axis": "ability",
+      "id": "C10",
+      "name": "Change capacity",
+      "score": 2
+    },
+    {
+      "axis": "case",
+      "id": "C05",
+      "name": "Contract and licence timing",
+      "score": 2
+    },
+    {
+      "axis": "ability",
+      "id": "C09",
+      "name": "Currency and legal entity complexity",
+      "score": 2
+    },
+    {
+      "axis": "ability",
+      "id": "C11",
+      "name": "Data quality and master data readiness",
+      "score": 2
+    }
+  ]
+}

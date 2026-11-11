@@ -1,0 +1,12 @@
+flowchart TD
+    Q1{"Does the group need one ledger<br/>and one process design?"}
+    Q1 -->|"No, it needs one view for reporting"| A4["Coexistence with a<br/>group reporting layer"]
+    Q1 -->|Yes| Q2{"Few entities, similar processes,<br/>strong change capacity, and a cutover<br/>that rehearsals show is recoverable?"}
+    Q2 -->|Yes| A1["Big bang<br/>(only after rehearsals pass)"]
+    Q2 -->|No| Q3{"Do the entities differ mainly by<br/>country, currency or legal entity?"}
+    Q3 -->|Yes| A2["Phased by entity<br/>pilot entity first"]
+    Q3 -->|No| Q4{"Are modules ready at<br/>different times?"}
+    Q4 -->|Yes| A3["Phased by module<br/>finance first, then supply chain"]
+    Q4 -->|No| A2
+    A2 -.-> N["Each phased route adds temporary interfaces<br/>and intercompany between old and new"]
+    A3 -.-> N

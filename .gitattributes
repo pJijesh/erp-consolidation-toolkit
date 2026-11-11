@@ -1,0 +1,7 @@
+*.csv text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.mmd text eol=lf
+*.svg text eol=lf
+# ERP B example files are deliberately Windows-1252 encoded with semicolons, so git must not touch them
+examples/data/erp_b_*.csv -text

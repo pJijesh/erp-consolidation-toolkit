@@ -1,0 +1,169 @@
+{
+  "ability_score": 76.6,
+  "case_score": 80.8,
+  "gates_hit": [],
+  "kind": "decision",
+  "name": "two-uk-distributors",
+  "outcome": "CONSOLIDATE",
+  "reasons": [
+    "Case 80.8 is at least 65 and ability to deliver 76.6 is at least 60."
+  ],
+  "scores": [
+    {
+      "axis": "case",
+      "evidence": "Same product types, same order to cash flow, same warehouse model.",
+      "id": "C01",
+      "kind": "criterion",
+      "name": "Process similarity",
+      "value": "5",
+      "weight": 3
+    },
+    {
+      "axis": "case",
+      "evidence": "Validated business case: licence and support saving plus two finance posts, payback in about 26 months, still positive in the pessimistic case.",
+      "id": "C02",
+      "kind": "criterion",
+      "name": "Commercial case",
+      "value": "4",
+      "weight": 3
+    },
+    {
+      "axis": "case",
+      "evidence": "Most customers and suppliers are shared. Staff currently re-key orders between systems.",
+      "id": "C03",
+      "kind": "criterion",
+      "name": "Shared customers, suppliers and parts",
+      "value": "4",
+      "weight": 2
+    },
+    {
+      "axis": "case",
+      "evidence": "Group stock and margin reporting is assembled by hand each month.",
+      "id": "C04",
+      "kind": "criterion",
+      "name": "Group reporting and control pain",
+      "value": "4",
+      "weight": 2
+    },
+    {
+      "axis": "case",
+      "evidence": "Both support contracts end within 14 months.",
+      "id": "C05",
+      "kind": "criterion",
+      "name": "Contract and licence timing",
+      "value": "4",
+      "weight": 2
+    },
+    {
+      "axis": "case",
+      "evidence": "Stable ownership, no disposals planned.",
+      "id": "C06",
+      "kind": "criterion",
+      "name": "Strategic stability",
+      "value": "4",
+      "weight": 1
+    },
+    {
+      "axis": "ability",
+      "evidence": "Mostly standard configuration, a short documented list of extensions.",
+      "id": "C07",
+      "kind": "criterion",
+      "name": "Customisation depth",
+      "value": "4",
+      "weight": 3
+    },
+    {
+      "axis": "ability",
+      "evidence": "Same country, same tax and reporting regime.",
+      "id": "C08",
+      "kind": "criterion",
+      "name": "Regulatory and statutory differences",
+      "value": "5",
+      "weight": 3
+    },
+    {
+      "axis": "ability",
+      "evidence": "Single currency, same year end, little intercompany trading.",
+      "id": "C09",
+      "kind": "criterion",
+      "name": "Currency and legal entity complexity",
+      "value": "5",
+      "weight": 2
+    },
+    {
+      "axis": "ability",
+      "evidence": "Backfill funded, but one finance lead is on leave for three months of the plan.",
+      "id": "C10",
+      "kind": "criterion",
+      "name": "Change capacity",
+      "value": "3",
+      "weight": 3
+    },
+    {
+      "axis": "ability",
+      "evidence": "Readiness scorecard is conditional go, with owners and dates for each amber item.",
+      "id": "C11",
+      "kind": "criterion",
+      "name": "Data quality and master data readiness",
+      "value": "4",
+      "weight": 2
+    },
+    {
+      "axis": "ability",
+      "evidence": "Managing director sponsors it and chairs a monthly steering group.",
+      "id": "C12",
+      "kind": "criterion",
+      "name": "Sponsor and governance strength",
+      "value": "4",
+      "weight": 2
+    },
+    {
+      "axis": "ability",
+      "evidence": "Nine integrations, all documented.",
+      "id": "C13",
+      "kind": "criterion",
+      "name": "Integration and interface footprint",
+      "value": "3",
+      "weight": 1
+    },
+    {
+      "axis": "",
+      "evidence": "No local statutory requirement beyond what the target covers.",
+      "id": "G01",
+      "kind": "gate",
+      "name": "Local system or statutory books required",
+      "value": "no",
+      "weight": 0
+    },
+    {
+      "axis": "",
+      "evidence": "Managing director is accountable for both entities.",
+      "id": "G02",
+      "kind": "gate",
+      "name": "No accountable executive sponsor",
+      "value": "no",
+      "weight": 0
+    },
+    {
+      "axis": "",
+      "evidence": "No sale or restructure planned.",
+      "id": "G03",
+      "kind": "gate",
+      "name": "Sale or restructure expected",
+      "value": "no",
+      "weight": 0
+    },
+    {
+      "axis": "",
+      "evidence": "A vendor reference of similar size exists and a pilot has been run.",
+      "id": "G04",
+      "kind": "gate",
+      "name": "Target platform unproven",
+      "value": "no",
+      "weight": 0
+    }
+  ],
+  "sensitivity": [],
+  "warnings": [],
+  "weak_criteria": []
+}

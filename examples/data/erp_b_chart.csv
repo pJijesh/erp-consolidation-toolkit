@@ -1,0 +1,111 @@
+gl_code;gl_description;class
+100100;Land and buildings;Fixed assets
+100200;Technical equipment cost;Fixed assets
+100300;Technical equipment accumulated depreciation;Fixed assets
+100400;Vehicles cost;Fixed assets
+100500;Vehicles accumulated depreciation;Fixed assets
+100600;Office equipment cost;Fixed assets
+100700;Office equipment accumulated depreciation;Fixed assets
+100800;IT hardware cost;Fixed assets
+100900;IT hardware accumulated depreciation;Fixed assets
+101000;Capitalised software;Fixed assets
+200100;Inventory raw materials;Current assets
+200200;Inventory work in progress;Current assets
+200300;Inventory finished goods;Current assets
+200400;Inventory write-down reserve;Current assets
+200500;Trade receivables domestic;Current assets
+200510;Trade receivables EU;Current assets
+200520;Trade receivables non-EU;Current assets
+200600;Bad debt allowance;Current assets
+200700;Other receivables;Current assets
+200800;Prepaid expenses;Current assets
+200900;Accrued income;Current assets
+201000;Input tax 19 percent;Current assets
+201100;Bank 1 main account;Current assets
+201200;Bank USD account;Current assets
+201300;Cash on hand;Current assets
+201400;Receivables from affiliated companies;Current assets
+201500;Security deposits paid;Current assets
+201600;Emissions certificates;Current assets
+400100;Trade payables domestic;Provisions and liabilities
+400110;Trade payables foreign;Provisions and liabilities
+400200;Accrued expenses;Provisions and liabilities
+400300;Goods receipt invoice receipt clearing;Provisions and liabilities
+400400;Output tax 19 percent;Provisions and liabilities
+400500;VAT settlement account;Provisions and liabilities
+400600;Wage tax payable;Provisions and liabilities
+400610;Social security payable;Provisions and liabilities
+400700;Pension fund payable;Provisions and liabilities
+400800;Corporate income tax payable;Provisions and liabilities
+400900;Short-term loans;Provisions and liabilities
+401000;Finance lease liabilities current;Provisions and liabilities
+401100;Payables to affiliated companies;Provisions and liabilities
+401200;Deferred income;Provisions and liabilities
+401300;Customer prepayments received;Provisions and liabilities
+401400;Warranty provision;Provisions and liabilities
+401500;Accrued holiday pay;Provisions and liabilities
+401600;Clearing account;Provisions and liabilities
+401700;Investment grants deferred;Provisions and liabilities
+450100;Long-term loans;Provisions and liabilities
+450200;Finance lease liabilities non-current;Provisions and liabilities
+450300;Deferred tax liability;Provisions and liabilities
+300100;Subscribed capital;Equity
+300200;Capital reserve;Equity
+300300;Retained earnings brought forward;Equity
+500100;Revenue domestic;Income
+500200;Revenue EU;Income
+500210;Revenue non-EU;Income
+500300;Revenue tooling;Income
+500400;Revenue spare parts;Income
+500500;Sales deductions;Income
+500600;Freight income;Income
+500700;Other operating income;Income
+500800;Proceeds from scrap;Income
+600100;Material costs;Expenses
+600200;Production wages;Expenses
+600300;External processing;Expenses
+600400;Freight-in;Expenses
+600500;Operating supplies production;Expenses
+600600;Energy production;Expenses
+600700;Tools expensed;Expenses
+600800;Change in inventories;Expenses
+600900;Price differences;Expenses
+601000;Scrap and rework costs;Expenses
+601100;Inventory write-offs;Expenses
+700100;Indirect labour;Expenses
+700200;Salaries administration;Expenses
+700300;Employer social security;Expenses
+700400;Pension expense;Expenses
+700500;Rent;Expenses
+700600;Property tax;Expenses
+700700;Utilities offices;Expenses
+700800;Maintenance machinery;Expenses
+700900;Insurance;Expenses
+701000;Vehicle costs;Expenses
+701100;Travel expenses;Expenses
+701200;Telecommunications;Expenses
+701300;IT services;Expenses
+701310;Software subscriptions;Expenses
+701400;Legal fees;Expenses
+701500;Audit and tax advisory;Expenses
+701600;Bank fees;Expenses
+701700;Marketing;Expenses
+701800;Training and education;Expenses
+701900;Office supplies;Expenses
+702000;Depreciation technical equipment;Expenses
+702100;Depreciation vehicles;Expenses
+702200;Depreciation office equipment;Expenses
+702210;Amortisation software;Expenses
+702300;Bad debt expense;Expenses
+702400;Warranty expense;Expenses
+702500;Occupational safety;Expenses
+702600;Other operating expenses;Expenses
+702700;Packaging disposal levy;Expenses
+702800;Works council costs;Expenses
+900100;Interest expense;Financial result
+900200;Realised exchange losses;Financial result
+900300;Income tax expense;Financial result
+900310;Trade tax expense;Financial result
+900400;Deferred tax expense;Financial result
+910100;Interest income;Financial result
+910200;Realised exchange gains;Financial result

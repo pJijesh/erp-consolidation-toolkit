@@ -1,0 +1,15 @@
+{
+  "checks": {
+    "contact_email": "email",
+    "date_created": "date:%d.%m.%Y",
+    "tax_id": "tax",
+    "zip": "postcode"
+  },
+  "country_column": "country_code",
+  "key": "account_no",
+  "required": [
+    "account_no",
+    "account_name",
+    "zip"
+  ]
+}

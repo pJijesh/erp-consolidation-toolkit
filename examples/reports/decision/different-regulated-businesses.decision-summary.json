@@ -1,0 +1,222 @@
+{
+  "ability_score": 34.4,
+  "case_score": 17.3,
+  "gates_hit": [
+    "G01",
+    "G04"
+  ],
+  "kind": "decision",
+  "name": "different-regulated-businesses",
+  "outcome": "KEEP SEPARATE",
+  "reasons": [
+    "Case 17.3 is below 40: the benefit of a single platform does not outweigh the cost and risk.",
+    "Gate(s) answered yes, which would cap the outcome at partial integration: G01; G04."
+  ],
+  "scores": [
+    {
+      "axis": "case",
+      "evidence": "One entity makes components. The other provides a regulated service with its own client money rules.",
+      "id": "C01",
+      "kind": "criterion",
+      "name": "Process similarity",
+      "value": "1",
+      "weight": 3
+    },
+    {
+      "axis": "case",
+      "evidence": "Savings are mostly licence cost. Estimated one-off cost is higher than five years of savings.",
+      "id": "C02",
+      "kind": "criterion",
+      "name": "Commercial case",
+      "value": "2",
+      "weight": 3
+    },
+    {
+      "axis": "case",
+      "evidence": "No shared customers or suppliers.",
+      "id": "C03",
+      "kind": "criterion",
+      "name": "Shared customers, suppliers and parts",
+      "value": "1",
+      "weight": 2
+    },
+    {
+      "axis": "case",
+      "evidence": "Each entity reports on time. Group reporting needs only a monthly summary.",
+      "id": "C04",
+      "kind": "criterion",
+      "name": "Group reporting and control pain",
+      "value": "2",
+      "weight": 2
+    },
+    {
+      "axis": "case",
+      "evidence": "Contracts end three years apart.",
+      "id": "C05",
+      "kind": "criterion",
+      "name": "Contract and licence timing",
+      "value": "2",
+      "weight": 2
+    },
+    {
+      "axis": "case",
+      "evidence": "Stable, but the group is considering a partner for the service business.",
+      "id": "C06",
+      "kind": "criterion",
+      "name": "Strategic stability",
+      "value": "3",
+      "weight": 1
+    },
+    {
+      "axis": "ability",
+      "evidence": "The regulated entity relies on a specialist system with heavy configuration.",
+      "id": "C07",
+      "kind": "criterion",
+      "name": "Customisation depth",
+      "value": "2",
+      "weight": 3
+    },
+    {
+      "axis": "ability",
+      "evidence": "The regulated entity must keep books in a form set by its regulator.",
+      "id": "C08",
+      "kind": "criterion",
+      "name": "Regulatory and statutory differences",
+      "value": "1",
+      "weight": 3
+    },
+    {
+      "axis": "ability",
+      "evidence": "Single currency, different year ends.",
+      "id": "C09",
+      "kind": "criterion",
+      "name": "Currency and legal entity complexity",
+      "value": "3",
+      "weight": 2
+    },
+    {
+      "axis": "ability",
+      "evidence": "Capacity exists in the manufacturer, not in the service entity.",
+      "id": "C10",
+      "kind": "criterion",
+      "name": "Change capacity",
+      "value": "3",
+      "weight": 3
+    },
+    {
+      "axis": "ability",
+      "evidence": "Data in reasonable shape in the manufacturer.",
+      "id": "C11",
+      "kind": "criterion",
+      "name": "Data quality and master data readiness",
+      "value": "3",
+      "weight": 2
+    },
+    {
+      "axis": "ability",
+      "evidence": "Sponsor is the group finance director, who has no authority over the regulated entity's systems.",
+      "id": "C12",
+      "kind": "criterion",
+      "name": "Sponsor and governance strength",
+      "value": "3",
+      "weight": 2
+    },
+    {
+      "axis": "ability",
+      "evidence": "Several regulator and client integrations that cannot be moved.",
+      "id": "C13",
+      "kind": "criterion",
+      "name": "Integration and interface footprint",
+      "value": "2",
+      "weight": 1
+    },
+    {
+      "axis": "",
+      "evidence": "Regulator requires the specialist system for client money.",
+      "id": "G01",
+      "kind": "gate",
+      "name": "Local system or statutory books required",
+      "value": "yes",
+      "weight": 0
+    },
+    {
+      "axis": "",
+      "evidence": "Group finance director is accountable for reporting.",
+      "id": "G02",
+      "kind": "gate",
+      "name": "No accountable executive sponsor",
+      "value": "no",
+      "weight": 0
+    },
+    {
+      "axis": "",
+      "evidence": "Not agreed, only under discussion.",
+      "id": "G03",
+      "kind": "gate",
+      "name": "Sale or restructure expected",
+      "value": "no",
+      "weight": 0
+    },
+    {
+      "axis": "",
+      "evidence": "Target not proven for client money handling.",
+      "id": "G04",
+      "kind": "gate",
+      "name": "Target platform unproven",
+      "value": "yes",
+      "weight": 0
+    }
+  ],
+  "sensitivity": [],
+  "warnings": [],
+  "weak_criteria": [
+    {
+      "axis": "case",
+      "id": "C01",
+      "name": "Process similarity",
+      "score": 1
+    },
+    {
+      "axis": "case",
+      "id": "C02",
+      "name": "Commercial case",
+      "score": 2
+    },
+    {
+      "axis": "ability",
+      "id": "C07",
+      "name": "Customisation depth",
+      "score": 2
+    },
+    {
+      "axis": "ability",
+      "id": "C08",
+      "name": "Regulatory and statutory differences",
+      "score": 1
+    },
+    {
+      "axis": "case",
+      "id": "C03",
+      "name": "Shared customers, suppliers and parts",
+      "score": 1
+    },
+    {
+      "axis": "case",
+      "id": "C04",
+      "name": "Group reporting and control pain",
+      "score": 2
+    },
+    {
+      "axis": "case",
+      "id": "C05",
+      "name": "Contract and licence timing",
+      "score": 2
+    },
+    {
+      "axis": "ability",
+      "id": "C13",
+      "name": "Integration and interface footprint",
+      "score": 2
+    }
+  ]
+}

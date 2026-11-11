@@ -1,0 +1,21 @@
+cluster_id,role,system,id,name_or_description,survivor_system,survivor_id,cluster_size,weakest_pair_score,directly_matched_to_survivor,fields_to_check,action
+C0001,survivor,A,S20004,Gulby Engineering Limited,A,S20004,2,100,yes,,keep as the group record
+C0001,merge_into_survivor,A,S20055,GULBY ENGINEERING LIMITED,A,S20004,2,100,yes,,"propose merge into survivor, after review"
+C0002,survivor,A,S20005,Rintry Engineering Limited,A,S20005,2,100,yes,,keep as the group record
+C0002,merge_into_survivor,A,S20097,RINTRY ENGINEERING LIMITED,A,S20005,2,100,yes,,"propose merge into survivor, after review"
+C0003,survivor,B,L700164,Oston Instruments Limited,B,L700164,2,100,yes,,keep as the group record
+C0003,merge_into_survivor,A,S20007,Ostton Instruments Limited,B,L700164,2,100,yes,values differ: name,"propose merge into survivor, after review"
+C0004,survivor,A,S20094,Selshaw Pumps Ltd,A,S20094,2,90,yes,,keep as the group record
+C0004,merge_into_survivor,A,S20023,Selshaw Pumps Limited,A,S20094,2,90,yes,,"propose merge into survivor, after review"
+C0005,survivor,A,S20033,Ashham Engineering AG,A,S20033,2,100,yes,,keep as the group record
+C0005,merge_into_survivor,B,L700168,Ashham Engineering AG,A,S20033,2,100,yes,,"propose merge into survivor, after review"
+C0006,survivor,A,S20042,Keswyn Valves GmbH,A,S20042,2,100,yes,,keep as the group record
+C0006,merge_into_survivor,B,L700160,Kesyn Valves GmbH,A,S20042,2,100,yes,values differ: name,"propose merge into survivor, after review"
+C0007,survivor,B,L700127,VANVANE PUMPS LTD,B,L700127,2,100,yes,,keep as the group record
+C0007,merge_into_survivor,A,S20062,Vanvane Pumps Ltd,B,L700127,2,100,yes,,"propose merge into survivor, after review"
+C0008,survivor,A,S20072,Dordale Haulage PLC,A,S20072,2,90,yes,,keep as the group record
+C0008,merge_into_survivor,B,L700147,"Dordale Haulage,  PLC",A,S20072,2,90,yes,values differ: postcode,"propose merge into survivor, after review"
+C0009,survivor,B,L700128,Crevtry Bearings GmbH,B,L700128,2,95,yes,,keep as the group record
+C0009,merge_into_survivor,B,L700115,Crevtry Bearings GmbH.,B,L700128,2,95,yes,,"propose merge into survivor, after review"
+C0010,survivor,B,L700157,Vanby Controls Ltd,B,L700157,2,100,yes,,keep as the group record
+C0010,merge_into_survivor,B,L700172,VANBY CONTROLS LTD,B,L700157,2,100,yes,,"propose merge into survivor, after review"

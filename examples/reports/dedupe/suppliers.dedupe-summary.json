@@ -1,0 +1,32 @@
+{
+  "auto_pairs": 10,
+  "clusters": 10,
+  "clusters_spanning_both_systems": 5,
+  "entity": "party",
+  "kind": "dedupe",
+  "name": "suppliers",
+  "records": 64,
+  "review_pairs": 7,
+  "review_pairs_per_100_records": 10.94,
+  "systems": {
+    "A": {
+      "label": "ERP A",
+      "records": 36,
+      "within_duplicate_rate": 0.0833,
+      "within_duplicate_records": 3
+    },
+    "B": {
+      "label": "ERP B",
+      "records": 28,
+      "within_duplicate_rate": 0.0714,
+      "within_duplicate_records": 2
+    }
+  },
+  "thresholds": {
+    "auto": 85,
+    "review": 50
+  },
+  "warnings": [
+    "The file is not valid UTF-8, so it was read as Windows-1252. Check that accented characters look right, or re-export as UTF-8."
+  ]
+}

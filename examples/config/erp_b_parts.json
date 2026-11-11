@@ -1,0 +1,9 @@
+{
+  "checks": {},
+  "key": "item_no",
+  "required": [
+    "item_no",
+    "item_text",
+    "unit"
+  ]
+}

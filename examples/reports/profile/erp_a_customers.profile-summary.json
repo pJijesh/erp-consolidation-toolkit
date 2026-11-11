@@ -1,0 +1,178 @@
+{
+  "column_detail": [
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "cust_id",
+      "distinct": 50,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "cust_name",
+      "distinct": 52,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 2
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "address_1",
+      "distinct": 43,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "city",
+      "distinct": 20,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 2,
+      "checks": [
+        {
+          "check": "postcode",
+          "checked": 50,
+          "invalid": 0,
+          "invalid_examples": [],
+          "invalid_rate": 0.0,
+          "valid": 50
+        }
+      ],
+      "column": "postcode",
+      "distinct": 44,
+      "missing": 2,
+      "missing_rate": 0.0385,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "country",
+      "distinct": 5,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 5,
+      "checks": [
+        {
+          "check": "tax",
+          "checked": 47,
+          "invalid": 2,
+          "invalid_examples": [
+            "GB37277534",
+            "GB68118734"
+          ],
+          "invalid_rate": 0.0426,
+          "valid": 45
+        }
+      ],
+      "column": "vat_no",
+      "distinct": 45,
+      "missing": 5,
+      "missing_rate": 0.0962,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 6,
+      "checks": [
+        {
+          "check": "email",
+          "checked": 40,
+          "invalid": 1,
+          "invalid_examples": [
+            "accounts@lorden-testingservices.example "
+          ],
+          "invalid_rate": 0.025,
+          "valid": 39
+        }
+      ],
+      "column": "email",
+      "distinct": 33,
+      "missing": 12,
+      "missing_rate": 0.2308,
+      "placeholder": 6,
+      "required": false,
+      "stray_whitespace": 1
+    },
+    {
+      "blank": 0,
+      "checks": [
+        {
+          "check": "date:%Y-%m-%d|%d/%m/%Y",
+          "checked": 52,
+          "formats_seen": {
+            "%Y-%m-%d": 47,
+            "%d/%m/%Y": 5
+          },
+          "invalid": 0,
+          "invalid_examples": [],
+          "invalid_rate": 0.0,
+          "mixed_formats": true,
+          "valid": 52
+        }
+      ],
+      "column": "created",
+      "distinct": 52,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    }
+  ],
+  "columns": 9,
+  "dataset": "erp_a_customers.csv",
+  "encoding": "utf-8",
+  "format_checked_values": 189,
+  "format_invalid_rate": 0.0159,
+  "format_invalid_values": 3,
+  "identical_rows": 0,
+  "key": {
+    "blank_keys": 0,
+    "column": "cust_id",
+    "duplicate_values": 2,
+    "examples": [
+      "C10002",
+      "C10007"
+    ],
+    "rows_with_duplicate_key": 4
+  },
+  "key_column": "cust_id",
+  "key_duplicate_rate": 0.0769,
+  "kind": "profile",
+  "name": "erp_a_customers",
+  "required_columns": [
+    "cust_id",
+    "cust_name",
+    "postcode"
+  ],
+  "required_max_missing_rate": 0.0385,
+  "rows": 52,
+  "warnings": []
+}

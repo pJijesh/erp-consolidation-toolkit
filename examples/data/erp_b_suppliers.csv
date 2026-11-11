@@ -1,0 +1,29 @@
+account_no;account_name;street;town;zip;country_code;tax_id;contact_email;date_created
+L700102;Garwick Coatings Ltd;Unit 9, Forge Street;Preston;PR9 8QA;GBR;GB688418614;accounts@garwick-coatings.example;01.10.2023
+L700105;Kesford Testing Services Limited;Unit 18, Furnace Street;Nottingham;NG6 6PP;GB;GB741728816;accounts@kesford-testingservices.example;21.01.2019
+L700105;Torthorn Heat Treatment KG;H¸ttenweg 26;Leipzig;4657;DE;;accounts@torthorn-heattreatment.example;23.05.2023
+L700106;Monwyn Trading;Unit 3, Mill Lane;Leeds;TF6 5XT;GBR;GB003215499;accounts@monwyn-metals.example;26.09.2018
+L700108;Wexisk Valves Limited;Unit 25, Quarry Way;Telford;TF10 6PB;GBR;;accounts@wexisk-valves.example;18.07.2022
+L700115;Crevtry Bearings GmbH.;Industriestraﬂe 6;Mannheim;;DEU;DE125261505;accounts@crevtry-bearings.example;17.09.2021
+L700118;Home Counties Industrial;Unit 31, Furnace Road;Reading;RG5 3ZP;GBR;GB729634895;;03.07.2019
+L700121;Baxford Packaging GmbH;Werkstraﬂe 40;D¸sseldorf;40935;DE;DE282163949;;27.01.2022
+L700121;Baxwick Packaging KG;Am Hafen 50;Leipzig;04223;DE;DE695630012;accounts@baxwick-packaging.example;09.11.2019
+L700124;Wilton Hydraulics KG;Industriestraﬂe 11;;30248;DE;DE877690812;;02.10.2022
+L700127;VANVANE PUMPS LTD;Unit 10, Furnace Street;Leeds;ls178ew;GB;GB 916 578 242;accounts@vanvane-pumps.example;16.05.2021
+L700128;Crevtry Bearings GmbH;Industriestraﬂe 6;Mannheim;68831;DE;DE125261505;accounts@crevtry-bearings.example;28.06.2019
+L700130;Crevden Testing Services Limited;Unit 17, Station Street;Nottingham;NG12 2XL;GBR;;accounts@crevden-testingservices.example;19.04.2023
+L700133;Wilmere Steel Stockholders GmbH;Werkstraﬂe 58;Leipzig;04141;DE;;accounts@wilmere-steelstockholders.example;13.04.2025
+L700137;Ostwyn Packaging Supplies Ltd;Unit 1, Trap Road;Cardiff;WV99 1ZZ;GB;GB304016447;accounts@ostwyn-packaging.example;27.02.2021
+L700141;Cormarrow Engineering AG;Am Hafen 50;Leipzig;04063;DEU;DE417009010;accounts@cormarrow-engineering.example;28.02.2022
+L700144;Monbrook Fixings Ltd;Unit 3, Canal Road;Bolton;BL8 3WT;GBR;;accounts@monbrook-fixings.example;07.07.2020
+L700147;Dordale Haulage,  PLC;Unit 8, Quarry Street;Nottingham;NG9 7NJ;GBR;GB204808003;;14.05.2018
+L700148;Eldbrook International AG;Werkstraﬂe 20;Dresden;01432;DE;DE955727818;accounts@eldbrook-international.example;07.07.2018
+L700152;Brelby Plastics AG;Werkstraﬂe 13;Dortmund;44379;DE;DE520896536;;10.03.2019
+L700154;Monmoor Steel Stockholders AG;Industriestraﬂe 41;Dortmund;44189;DE;DE070666726;accountsmonmoor-steelstockholders.example;28.12.2025
+L700157;Vanby Controls Ltd;Unit 5, Furnace Road;Bolton;BL16 1QP;GBR;GB699307276;accounts@vanby-controls.example;21.03.2018
+L700160;Kesyn Valves GmbH;Werkstraﬂe 40;Dresden;01536;DE;405570360;accounts@keswyn-valves.example;13.07.2022
+L700164;Oston Instruments Limited;Unit 9, Quarry Park;Derby;DE10 3TY;GB;188475785;accounts@ostton-instruments.example;16.09.2021
+L700168;Ashham Engineering AG;Gewerbepark 46;Stuttgart;70377;DE;DE 844 924 889;;09.07.2022
+L700172;VANBY CONTROLS LTD;Unit 5, Furnace Road;Bolton;BL16 1QP;GB;GB 699 307 276;accounts@vanby-controls.example;03.04.2025
+L700176;Penmere Machining GmbH;Am Hafen 37;Augsburg;86997;DEU;DE094030640;accounts@penmere-machining.example;27.03.2019
+L700179;Garwick Coatings,  Ltd;Unit 9, Forge Street;Preston;PR9 8QA;GBR;;;13.04.2024

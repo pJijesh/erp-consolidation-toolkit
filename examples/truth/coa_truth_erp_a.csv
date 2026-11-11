@@ -1,0 +1,82 @@
+source_account,source_name,target_account
+1010,Freehold Property,11010
+1020,Plant & Machinery - Cost,11020
+1030,Plant & Machinery - Acc Depn,11030
+1040,Motor Vehicles - Cost,11040
+1050,Motor Vehicles - Acc Depn,11050
+1060,Fixtures & Fittings - Cost,11060
+1070,Fixtures & Fittings - Acc Depn,11070
+1080,IT Equipment - Cost,11080
+1090,IT Equipment - Acc Depn,11090
+1100,Software Licences,11100
+1210,Stock - Raw Materials,12010
+1220,Stock - Work in Progress,12020
+1230,Stock - Finished Goods,12030
+1240,Trade Debtors Control,12050
+1250,Provision for Bad Debts,12060
+1260,Prepayments,12080
+1270,VAT Input,12100
+1280,Bank Current Account,12110
+1290,Intercompany Receivable,12140
+1300,Mould Tooling Deposits,
+2010,Trade Creditors Control,21010
+2020,Accruals,21020
+2030,GRNI Accrual,21030
+2040,VAT Output,21040
+2050,PAYE & NI Control,21060
+2060,Corporation Tax Payable,21080
+2070,Bank Loan - Current,21090
+2080,HP Creditors - Current,21100
+2090,Intercompany Payable,21110
+2100,Deferred Income,21120
+2110,Suspense,21160
+2510,Bank Loan - Long Term,22010
+2520,HP Creditors - Long Term,22020
+2530,Directors Loan Account,22030
+2540,Deferred Tax Liability,22040
+3010,Called Up Share Capital,31010
+3020,Share Premium Account,31020
+3030,Profit & Loss Reserve,31030
+3040,Revaluation Reserve,31040
+4010,Sales - Castings UK,41010
+4020,Sales - Castings Export,41020
+4030,Sales - Tooling,41030
+4040,Sales - Spares,41040
+4050,Sales Returns & Allowances,41050
+4060,Other Income,41070
+5010,Purchases - Raw Materials,51010
+5020,Direct Wages,51020
+5030,Subcontract Processing,51030
+5040,Carriage Inwards,51040
+5050,Consumables - Production,51050
+5060,Gas & Electric - Production,51060
+5070,Tooling Costs,51070
+5080,Stock Movement,51080
+5090,PPV,51090
+5100,Foundry Sand Reclamation,
+7010,Indirect Wages,61010
+7020,Salaries - Admin,61020
+7030,Employers NI,61030
+7040,Pension Costs,61040
+7050,Rent,61050
+7060,Business Rates,61060
+7070,Utilities,61070
+7080,R&M - Machinery,61080
+7090,Insurance,61090
+7100,Motor Expenses,61100
+7110,Travel & Subsistence,61110
+7120,Telephone & Internet,61120
+7130,IT Costs,61130
+7140,Audit & Accountancy,61150
+7150,Bank Charges,61160
+7160,Advertising,61170
+7170,Stationery & Printing,61190
+7180,Depreciation - P&M,61200
+7190,Depreciation - Other,61220
+7200,Sundry Expenses,61260
+7210,Old Site Closure Costs,
+8010,Loan Interest,71010
+8020,Exchange Losses,71020
+8030,Corporation Tax Charge,71030
+8510,Bank Interest Received,72010
+8520,Exchange Gains,72020

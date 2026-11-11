@@ -1,0 +1,82 @@
+source_account,source_name,source_type,target_account,target_name,method,confidence,status,flags,has_balance
+1010,Freehold Property,asset,11010,Freehold land and buildings,manual,1.00,approved,,yes
+1020,Plant & Machinery - Cost,asset,11020,Plant and machinery at cost,manual,1.00,approved,,yes
+1030,Plant & Machinery - Acc Depn,asset,11030,Plant and machinery accumulated depreciation,manual,1.00,approved,,yes
+1040,Motor Vehicles - Cost,asset,11040,Motor vehicles at cost,manual,1.00,approved,,yes
+1050,Motor Vehicles - Acc Depn,asset,11050,Motor vehicles accumulated depreciation,manual,1.00,approved,,yes
+1060,Fixtures & Fittings - Cost,asset,11060,Fixtures and fittings at cost,manual,1.00,approved,,yes
+1070,Fixtures & Fittings - Acc Depn,asset,11070,Fixtures and fittings accumulated depreciation,manual,1.00,approved,,yes
+1080,IT Equipment - Cost,asset,11080,Computer equipment at cost,manual,1.00,approved,,yes
+1090,IT Equipment - Acc Depn,asset,11090,Computer equipment accumulated depreciation,manual,1.00,approved,,yes
+1100,Software Licences,asset,11100,Capitalised software,manual,1.00,approved,,yes
+1210,Stock - Raw Materials,asset,12010,Raw materials inventory,manual,1.00,approved,many_to_one,yes
+1220,Stock - Work in Progress,asset,12020,Work in progress inventory,manual,1.00,approved,,yes
+1230,Stock - Finished Goods,asset,12030,Finished goods inventory,manual,1.00,approved,,yes
+1240,Trade Debtors Control,asset,12050,Trade receivables,manual,1.00,approved,,yes
+1250,Provision for Bad Debts,asset,12060,Allowance for doubtful debts,manual,1.00,approved,,yes
+1260,Prepayments,asset,12080,Prepayments,manual,1.00,approved,,yes
+1270,VAT Input,asset,12100,Input VAT recoverable,manual,1.00,approved,,yes
+1280,Bank Current Account,asset,12110,Bank current accounts,manual,1.00,approved,,yes
+1290,Intercompany Receivable,asset,12140,Intercompany receivables,manual,1.00,approved,,yes
+1300,Mould Tooling Deposits,asset,,,none,,unmapped,,no
+2010,Trade Creditors Control,liability,21010,Trade payables,manual,1.00,approved,,yes
+2020,Accruals,liability,21020,Accruals,manual,1.00,approved,,yes
+2030,GRNI Accrual,liability,21030,Goods received not invoiced,manual,1.00,approved,,yes
+2040,VAT Output,liability,21040,Output VAT,manual,1.00,approved,,yes
+2050,PAYE & NI Control,liability,21060,Payroll taxes and social security payable,manual,1.00,approved,,yes
+2060,Corporation Tax Payable,Taxation,21080,Corporate income tax payable,manual,1.00,approved,type_unknown,yes
+2070,Bank Loan - Current,liability,21090,Short term loans,manual,1.00,approved,,yes
+2080,HP Creditors - Current,liability,21100,"Finance lease liabilities, current",manual,1.00,approved,,yes
+2090,Intercompany Payable,liability,21110,Intercompany payables,manual,1.00,approved,,yes
+2100,Deferred Income,liability,21120,Deferred income,manual,1.00,approved,,yes
+2110,Suspense,liability,21160,Suspense and clearing,manual,1.00,approved,,yes
+2510,Bank Loan - Long Term,liability,22010,Long term loans,manual,1.00,approved,,yes
+2520,HP Creditors - Long Term,liability,22020,"Finance lease liabilities, non-current",manual,1.00,approved,,yes
+2530,Directors Loan Account,liability,22030,Shareholder and director loans,manual,1.00,approved,,yes
+2540,Deferred Tax Liability,liability,22040,Deferred tax liability,manual,1.00,approved,,yes
+3010,Called Up Share Capital,equity,31010,Share capital,manual,1.00,approved,,yes
+3020,Share Premium Account,equity,31020,Share premium,manual,1.00,approved,,yes
+3030,Profit & Loss Reserve,equity,31030,Retained earnings,manual,1.00,approved,,yes
+3040,Revaluation Reserve,equity,31040,Revaluation reserve,manual,1.00,approved,,yes
+4010,Sales - Castings UK,revenue,41010,"Revenue, castings domestic",manual,1.00,approved,,yes
+4020,Sales - Castings Export,revenue,41020,"Revenue, castings export",manual,1.00,approved,,yes
+4030,Sales - Tooling,revenue,41030,"Revenue, tooling",manual,1.00,approved,,yes
+4040,Sales - Spares,revenue,41040,"Revenue, spares and services",manual,1.00,approved,,yes
+4050,Sales Returns & Allowances,revenue,41050,Sales returns and discounts,manual,1.00,approved,,yes
+4060,Other Income,revenue,41070,Other operating income,manual,1.00,approved,,yes
+5010,Purchases - Raw Materials,expense,51010,Raw materials consumed,manual,1.00,approved,,yes
+5020,Direct Wages,expense,51020,Direct labour,manual,1.00,approved,,yes
+5030,Subcontract Processing,expense,51030,Subcontract processing,manual,1.00,approved,,yes
+5040,Carriage Inwards,expense,12010,Raw materials inventory,manual,1.00,approved,many_to_one;type_mismatch,yes
+5050,Consumables - Production,expense,51050,Production consumables,manual,1.00,approved,,yes
+5060,Gas & Electric - Production,expense,51060,Production energy,manual,1.00,approved,,yes
+5070,Tooling Costs,expense,51070,Tooling expensed,manual,1.00,approved,,yes
+5080,Stock Movement,expense,51080,Change in inventories,manual,1.00,approved,,yes
+5090,PPV,expense,51090,Purchase price variance,manual,1.00,approved,,yes
+5100,Foundry Sand Reclamation,expense,,,none,,unmapped,,no
+7010,Indirect Wages,expense,61010,Indirect labour,manual,1.00,approved,,yes
+7020,Salaries - Admin,expense,61020,Salaries,manual,1.00,approved,,yes
+7030,Employers NI,expense,61030,Employer social security,manual,1.00,approved,,yes
+7040,Pension Costs,expense,61040,Pension costs,manual,1.00,approved,,yes
+7050,Rent,expense,61050,Rent,manual,1.00,approved,,yes
+7060,Business Rates,expense,61060,Business rates and property taxes,manual,1.00,approved,,yes
+7070,Utilities,expense,61070,"Utilities, offices",manual,1.00,approved,,yes
+7080,R&M - Machinery,expense,61080,Repairs and maintenance,manual,1.00,approved,,yes
+7090,Insurance,expense,61090,Insurance,manual,1.00,approved,,yes
+7100,Motor Expenses,expense,61100,Motor expenses,manual,1.00,approved,,yes
+7110,Travel & Subsistence,expense,61110,Travel and subsistence,manual,1.00,approved,,yes
+7120,Telephone & Internet,expense,61120,Telephone and internet,manual,1.00,approved,,yes
+7130,IT Costs,expense,61130,IT costs and subscriptions,manual,1.00,approved,,yes
+7140,Audit & Accountancy,expense,61150,Audit and accountancy,manual,1.00,approved,,yes
+7150,Bank Charges,expense,61160,Bank charges,manual,1.00,approved,,yes
+7160,Advertising,expense,61170,Marketing and advertising,manual,1.00,approved,,yes
+7170,Stationery & Printing,expense,61190,Office supplies and printing,manual,1.00,approved,,yes
+7180,Depreciation - P&M,expense,61200,"Depreciation, plant and machinery",manual,1.00,approved,,yes
+7190,Depreciation - Other,expense,61220,"Depreciation, other",manual,1.00,approved,,yes
+7200,Sundry Expenses,expense,61260,Sundry expenses,manual,1.00,approved,,yes
+7210,Old Site Closure Costs,expense,,,none,,unmapped,,no
+8010,Loan Interest,expense,71010,Interest payable,manual,1.00,approved,,yes
+8020,Exchange Losses,expense,71020,Exchange losses,manual,1.00,approved,,yes
+8030,Corporation Tax Charge,Taxation,71030,Corporate income tax expense,manual,1.00,approved,type_unknown,yes
+8510,Bank Interest Received,revenue,72010,Interest receivable,manual,1.00,approved,,yes
+8520,Exchange Gains,revenue,72020,Exchange gains,manual,1.00,approved,,yes

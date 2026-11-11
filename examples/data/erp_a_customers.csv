@@ -1,0 +1,53 @@
+cust_id,cust_name,address_1,city,postcode,country,vat_no,email,created
+C10002,Wilbrae Lubricants Limited,"Unit 22, Furnace Road",Telford,TF11 2FA,GB,GB092953610,accounts@wilbrae-lubricants.example,2022-04-11
+C10002,LORLOCK LOGISTICS LTD,"Unit 10, Brook Way",Walsall,WS16 1YA,GB,GB894977286,n/a,2020-02-14
+C10004,Fynley Plastics Ltd,"Unit 35, Foundry Street",Coventry,CV5 9DL,UK,GB200280660,accounts@fynley-plastics.example,2023-11-22
+C10007,Gartry Tooling Ltd,"Unit 30, Mill Street",Sheffield,S6 5UW,GB,GB779611507,accounts@gartry-tooling.example,10/10/2023
+C10007,Caltrel Fixings Limited,"Unit 31, Canal Street",Swindon,sn191fr,GB,GB767187812,accounts@caltrel-fixings.example,2022-07-22
+C10010,Torhurst Pumps PLC,"Unit 26, Canal Way",Walsall,WS16 9WW,GB,GB402071610,accounts@torhurst-pumps.example,2019-01-06
+C10014,Quenhurst Testing Services Ltd,"Unit 21, Brook Park",Swindon,SN14 6RH,United Kingdom,GB752723906,accounts@quenhurst-testingservices.example,2019-04-25
+C10018,Wiltrel Fasteners Ltd,"Unit 5, Furnace Lane",Nottingham,NG1 2BH,United Kingdom,GB701961427,accounts@wiltrel-fasteners.example,13/08/2021
+C10021,Brelmere Manufacturing Ltd,"Unit 23, Forge Way",Reading,RG2 8WL,UK,GB190831995,accounts@brelmere-manufacturing.example,2023-04-23
+C10023,Penwarth Haulage PLC,"Unit 7, Canal Way",Cardiff,CF14 2LX,GB,GB826906308,accounts@penwarth-haulage.example,22/09/2019
+C10027,Rinlock Testing Services Ltd,"Unit 21, Furnace Road",Leeds,LS1 6JL,UK,GB817366208,accounts@rinlock-testingservices.example,2021-05-19
+C10031,Jorley Manufacturing Ltd,"Unit 28, Canal Lane",Sheffield,S13 8DY,United Kingdom,GB194813916,accounts@jorley-manufacturing.example,2024-02-25
+C10035,ORMGATE LUBRICANTS LIMITED,"Unit 27, Enterprise Park",Walsall,WS5 9PY,GB,,accounts@ormgate-lubricants.example,2025-07-17
+C10036,Wilmere Heat Treatment KG,Gewerbepark 31,Duisburg,47086,Germany,DE117703887,accounts@wilmere-heattreatment.example,2020-02-05
+C10039,Dorford Packaging Ltd,"Unit 6, Mill Lane",Nottingham,NG14 9EG,UK,GB955461836,accounts@dorford-packaging.example,2019-05-19
+C10043,"Zanlock Testing Services,  KG",Schmiedegasse 56,Hannover,30964,DE,,accounts@zanlock-testingservices.example,2023-09-22
+C10044,Ostisk Controls Ltd,"Unit 9, Canal Road",Redditch,B6 1HT,GB,GB020142470,accounts@ostisk-controls.example,2020-04-10
+C10048,Baxlock Logistics Ltd,"Unit 29, Industrial Way",Cardiff,CF2 5FD,United Kingdom,GB703472551,accounts@baxlock-logistics.example,2024-02-18
+C10049,Yolford Manufacturing GmbH,Hüttenweg 30,Leipzig,04222,DE,DE456001206,,2024-11-19
+C10050,Yolby Machining KG,Am Hafen 25,Hannover,30322,Germany,,,2023-11-28
+C10051,Wilgate Packaging Ltd,"Unit 22, Station Lane",Stoke-on-Trent,ST14 3TB,GB,GB207588874,accounts@wilgate-packaging.example,2022-01-20
+C10052,Lorden Testing Services Ltd,"Unit 21, Furnace Way",Cardiff,CF13 5WH,United Kingdom,GB045453355,accounts@lorden-testingservices.example ,2021-09-18
+C10055,Hoxnock Electrical Ltd,"Unit 14, Station Street",Stoke-on-Trent,ST8 3LT,GB,GB456570574,,2021-10-25
+C10058,Fynwell Pattern Makers Limited,"Unit 35, Forge Street",Preston,PR19 7NX,GB,GB68118734,accounts@fynwell-patternmakers.example,2024-08-28
+C10062,Garshaw Manufacturing Limited,"Unit 37, Canal Park",Sheffield,S17 4PU,GB,GB076901838,n/a,2022-02-02
+C10064,Zanby Fabrications Ltd,"Unit 9, Industrial Lane",Wolverhampton,WV13 6NU,UK,GB465243028,accounts@zanby-fabrications.example,2021-11-02
+C10066,Wextrel Logistics Ltd.,"Unit 17, Foundry Park",Nottingham,,United Kingdom,GB191729291,accounts@wextrel-logistics.example,2025-10-03
+C10068,SARTHORN TOOLING LIMITED,"Unit 5, Quarry Park",Stoke-on-Trent,ST15 1NB,United Kingdom,GB 610 210 919,,2023-03-23
+C10071,Tavvane Electrical GmbH,Gewerbepark 4,Duisburg,47594,DE,DE088948167,n/a,2025-08-08
+C10075,Heltrel Pattern Makers Limited,"Unit 23, Quarry Way",Redditch,b175uy,UK,GB37277534,accounts@heltrel-patternmakers.example,2024-09-25
+C10079,Baxgate Bearings Ltd,"Unit 3, Forge Park",Wolverhampton,WV8 5UA,UK,GB609850608,n/a,2022-01-28
+C10080,Draystead Electrical Ltd,"Unit 21, Canal Lane",Nottingham,NG12 7DN,UK,GB951516046,,2022-03-04
+C10084,Wilstead Tooling Limited,"Unit 31, Enterprise Road",Stoke-on-Trent,ST6 7FF,GB,GB231469373,n/a,2020-11-03
+C10086,Gulvane Fixings Limited,"Unit 10, Enterprise Road",Bolton,BL6 2SL,GB,GB800464043,accounts@gulvane-fixings.example,28/07/2022
+C10090,Ormgate Lubricants Limited,"Unit 27, Enterprise Park",Walsall,WS5 9PY,GB,GB434004962,accounts@ormgate-lubricants.example,2018-09-12
+C10094,Venmere Plastics Limited,"Unit 38, Station Lane",Leeds,LS20 3LU,GB,GB093987587,accounts@venmere-plastics.example,2019-03-02
+C10098,TORHURST PUMPS PLC,"Unit 26, Canal Way",Walsall,WS16 9WW,UK,GB 402 071 610,accounts@torhurst-pumps.example,2025-04-09
+C10101,"Lorden Testing Services,  Ltd","Unit 21, Furnace Way",Cardiff,CF13 5WH,UK,,accounts@lorden-testingservices.example,2021-12-26
+C10105,Helhurst Testing Services Limited,"Unit 27, Foundry Lane",Stoke-on-Trent,ST1 4LA,United Kingdom,GB641433961,accounts@helhurst-testingservices.example,2020-12-22
+C10108,Baxlock Group Holdings Ltd,"Unit 29, Industrial Way",Cardiff,CF2 5FD,GB,GB399248642,accounts@baxlock-logistics.example,2020-02-15
+C10112,Brelthorn Metals PLC,"Unit 17, Mill Park",Bolton,BL11 1AJ,GB,GB171261513,accounts@brelthorn-metals.example,2023-08-08
+C10115,Brynisk Pumps Ltd,"Unit 1, Foundry Park",Cardiff,CF14 1LG,United Kingdom,,accounts@brynisk-pumps.example,2018-09-06
+C10118,Selshaw Pumps Ltd,"Unit 7, Industrial Lane",Leeds,LS5 8UH,UK,GB614211964,accounts@selshaw-pumps.example,2022-11-10
+C10120,Rinlock Testing Services Limited,"Unit 21, Furnace Road",Leeds,,UK,GB817366208,accounts@rinlock-testingservices.example,2019-09-17
+C10121,Vanbrook Abrasives Limited,"Unit 3, Enterprise Road",Sheffield,S4 1AP,United Kingdom,GB846473978,accounts@vanbrook-abrasives.example,2025-01-24
+C10123,Hoxden Abrasives GmbH,Gewerbepark 45,Köln,50246,DE,DE176075486,n/a,2018-04-24
+C10126,Dortrel Manufacturing GmbH & Co. KG,Gewerbepark 18,Köln,50364,Germany,DE290879887,,2024-10-27
+C10130,Aldwyn Fabrications KG,Gewerbepark 6,Nürnberg,90841,Germany,DE120252198,accounts@aldwyn-fabrications.example,2021-01-06
+C10134,Sarthorn Tooling Limited,"Unit 5, Quarry Park",Stoke-on-Trent,ST15 1NB,UK,GB610210919,accounts@sarthorn-tooling.example,15/06/2023
+C10136,Wextrel Logistics Limited,"Unit 17, Foundry Park",Nottingham,NG20 5BJ,United Kingdom,GB191729291,accounts@wextrel-logistics.example,2021-03-24
+C10138,Vanden Instruments AG,Schmiedegasse 56,Augsburg,86639,DE,DE542180356,accounts@vanden-instruments.example,2024-03-22
+C10140,Zanlock Testing Services KG,Schmiedegasse 56,Hannover,30964,Germany,DE841622658,accounts@zanlock-testingservices.example,2021-11-21

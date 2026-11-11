@@ -1,0 +1,82 @@
+acct_no,acct_name,acct_type
+1010,Freehold Property,Fixed Asset
+1020,Plant & Machinery - Cost,Fixed Asset
+1030,Plant & Machinery - Acc Depn,Fixed Asset
+1040,Motor Vehicles - Cost,Fixed Asset
+1050,Motor Vehicles - Acc Depn,Fixed Asset
+1060,Fixtures & Fittings - Cost,Fixed Asset
+1070,Fixtures & Fittings - Acc Depn,Fixed Asset
+1080,IT Equipment - Cost,Fixed Asset
+1090,IT Equipment - Acc Depn,Fixed Asset
+1100,Software Licences,Fixed Asset
+1210,Stock - Raw Materials,Current Asset
+1220,Stock - Work in Progress,Current Asset
+1230,Stock - Finished Goods,Current Asset
+1240,Trade Debtors Control,Current Asset
+1250,Provision for Bad Debts,Current Asset
+1260,Prepayments,Current Asset
+1270,VAT Input,Current Asset
+1280,Bank Current Account,Bank
+1290,Intercompany Receivable,Current Asset
+1300,Mould Tooling Deposits,Current Asset
+2010,Trade Creditors Control,Current Liability
+2020,Accruals,Current Liability
+2030,GRNI Accrual,Current Liability
+2040,VAT Output,Current Liability
+2050,PAYE & NI Control,Current Liability
+2060,Corporation Tax Payable,Taxation
+2070,Bank Loan - Current,Current Liability
+2080,HP Creditors - Current,Current Liability
+2090,Intercompany Payable,Current Liability
+2100,Deferred Income,Current Liability
+2110,Suspense,Current Liability
+2510,Bank Loan - Long Term,Long Term Liability
+2520,HP Creditors - Long Term,Long Term Liability
+2530,Directors Loan Account,Long Term Liability
+2540,Deferred Tax Liability,Long Term Liability
+3010,Called Up Share Capital,Equity
+3020,Share Premium Account,Equity
+3030,Profit & Loss Reserve,Equity
+3040,Revaluation Reserve,Equity
+4010,Sales - Castings UK,Sales
+4020,Sales - Castings Export,Sales
+4030,Sales - Tooling,Sales
+4040,Sales - Spares,Sales
+4050,Sales Returns & Allowances,Sales
+4060,Other Income,Sales
+5010,Purchases - Raw Materials,Cost of Sales
+5020,Direct Wages,Cost of Sales
+5030,Subcontract Processing,Cost of Sales
+5040,Carriage Inwards,Cost of Sales
+5050,Consumables - Production,Cost of Sales
+5060,Gas & Electric - Production,Cost of Sales
+5070,Tooling Costs,Cost of Sales
+5080,Stock Movement,Cost of Sales
+5090,PPV,Cost of Sales
+5100,Foundry Sand Reclamation,Cost of Sales
+7010,Indirect Wages,Overhead
+7020,Salaries - Admin,Overhead
+7030,Employers NI,Overhead
+7040,Pension Costs,Overhead
+7050,Rent,Overhead
+7060,Business Rates,Overhead
+7070,Utilities,Overhead
+7080,R&M - Machinery,Overhead
+7090,Insurance,Overhead
+7100,Motor Expenses,Overhead
+7110,Travel & Subsistence,Overhead
+7120,Telephone & Internet,Overhead
+7130,IT Costs,Overhead
+7140,Audit & Accountancy,Overhead
+7150,Bank Charges,Overhead
+7160,Advertising,Overhead
+7170,Stationery & Printing,Overhead
+7180,Depreciation - P&M,Overhead
+7190,Depreciation - Other,Overhead
+7200,Sundry Expenses,Overhead
+7210,Old Site Closure Costs,Overhead
+8010,Loan Interest,Overhead
+8020,Exchange Losses,Overhead
+8030,Corporation Tax Charge,Taxation
+8510,Bank Interest Received,Other Income
+8520,Exchange Gains,Other Income

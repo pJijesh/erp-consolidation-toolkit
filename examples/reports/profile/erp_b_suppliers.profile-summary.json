@@ -1,0 +1,181 @@
+{
+  "column_detail": [
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "account_no",
+      "distinct": 26,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "account_name",
+      "distinct": 28,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 2
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "street",
+      "distinct": 23,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 1,
+      "checks": [],
+      "column": "town",
+      "distinct": 15,
+      "missing": 1,
+      "missing_rate": 0.0357,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 1,
+      "checks": [
+        {
+          "check": "postcode",
+          "checked": 27,
+          "invalid": 1,
+          "invalid_examples": [
+            "4657"
+          ],
+          "invalid_rate": 0.037,
+          "valid": 26
+        }
+      ],
+      "column": "zip",
+      "distinct": 25,
+      "missing": 1,
+      "missing_rate": 0.0357,
+      "placeholder": 0,
+      "required": true,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [],
+      "column": "country_code",
+      "distinct": 4,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 6,
+      "checks": [
+        {
+          "check": "tax",
+          "checked": 22,
+          "invalid": 2,
+          "invalid_examples": [
+            "188475785",
+            "405570360"
+          ],
+          "invalid_rate": 0.0909,
+          "valid": 20
+        }
+      ],
+      "column": "tax_id",
+      "distinct": 21,
+      "missing": 6,
+      "missing_rate": 0.2143,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 7,
+      "checks": [
+        {
+          "check": "email",
+          "checked": 21,
+          "invalid": 1,
+          "invalid_examples": [
+            "accountsmonmoor-steelstockholders.exa..."
+          ],
+          "invalid_rate": 0.0476,
+          "valid": 20
+        }
+      ],
+      "column": "contact_email",
+      "distinct": 19,
+      "missing": 7,
+      "missing_rate": 0.25,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    },
+    {
+      "blank": 0,
+      "checks": [
+        {
+          "check": "date:%d.%m.%Y",
+          "checked": 28,
+          "formats_seen": {
+            "%d.%m.%Y": 28
+          },
+          "invalid": 0,
+          "invalid_examples": [],
+          "invalid_rate": 0.0,
+          "mixed_formats": false,
+          "valid": 28
+        }
+      ],
+      "column": "date_created",
+      "distinct": 28,
+      "missing": 0,
+      "missing_rate": 0.0,
+      "placeholder": 0,
+      "required": false,
+      "stray_whitespace": 0
+    }
+  ],
+  "columns": 9,
+  "dataset": "erp_b_suppliers.csv",
+  "encoding": "cp1252",
+  "format_checked_values": 98,
+  "format_invalid_rate": 0.0408,
+  "format_invalid_values": 4,
+  "identical_rows": 0,
+  "key": {
+    "blank_keys": 0,
+    "column": "account_no",
+    "duplicate_values": 2,
+    "examples": [
+      "L700105",
+      "L700121"
+    ],
+    "rows_with_duplicate_key": 4
+  },
+  "key_column": "account_no",
+  "key_duplicate_rate": 0.1429,
+  "kind": "profile",
+  "name": "erp_b_suppliers",
+  "required_columns": [
+    "account_name",
+    "account_no",
+    "zip"
+  ],
+  "required_max_missing_rate": 0.0357,
+  "rows": 28,
+  "warnings": [
+    "The file is not valid UTF-8, so it was read as Windows-1252. Check that accented characters look right, or re-export as UTF-8."
+  ]
+}

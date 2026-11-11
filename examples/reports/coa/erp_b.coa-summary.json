@@ -1,0 +1,17 @@
+{
+  "approved": 55,
+  "approved_coverage": 0.5,
+  "balance_accounts": 110,
+  "balance_accounts_not_approved": 55,
+  "exceptions_error": 21,
+  "exceptions_warning": 18,
+  "kind": "coa",
+  "many_to_one_targets": 9,
+  "name": "erp_b",
+  "source_accounts": 110,
+  "suggested_for_review": 34,
+  "suggested_high_confidence": 19,
+  "target_accounts": 110,
+  "unmapped": 21,
+  "warnings": []
+}

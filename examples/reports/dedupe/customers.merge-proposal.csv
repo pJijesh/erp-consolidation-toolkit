@@ -1,0 +1,33 @@
+cluster_id,role,system,id,name_or_description,survivor_system,survivor_id,cluster_size,weakest_pair_score,directly_matched_to_survivor,fields_to_check,action
+C0001,survivor,A,C10004,Fynley Plastics Ltd,A,C10004,2,100,yes,,keep as the group record
+C0001,merge_into_survivor,B,K400174,FYNLEY PLASTICS LTD,A,C10004,2,100,yes,,"propose merge into survivor, after review"
+C0002,survivor,A,C10010,Torhurst Pumps PLC,A,C10010,2,100,yes,,keep as the group record
+C0002,merge_into_survivor,A,C10098,TORHURST PUMPS PLC,A,C10010,2,100,yes,,"propose merge into survivor, after review"
+C0003,survivor,A,C10027,Rinlock Testing Services Ltd,A,C10027,2,95,yes,,keep as the group record
+C0003,merge_into_survivor,A,C10120,Rinlock Testing Services Limited,A,C10027,2,95,yes,,"propose merge into survivor, after review"
+C0004,survivor,A,C10044,Ostisk Controls Ltd,A,C10044,2,95,yes,,keep as the group record
+C0004,merge_into_survivor,B,K400171,"Ostisk Controls,  Ltd",A,C10044,2,95,yes,values differ: postcode,"propose merge into survivor, after review"
+C0005,survivor,A,C10062,Garshaw Manufacturing Limited,A,C10062,2,100,yes,,keep as the group record
+C0005,merge_into_survivor,B,K400192,GARSHAW MANUFACTURING LIMITED,A,C10062,2,100,yes,"survivor blank, member has: email domain","propose merge into survivor, after review"
+C0006,survivor,A,C10136,Wextrel Logistics Limited,A,C10136,2,95,yes,,keep as the group record
+C0006,merge_into_survivor,A,C10066,Wextrel Logistics Ltd.,A,C10136,2,95,yes,,"propose merge into survivor, after review"
+C0007,survivor,A,C10134,Sarthorn Tooling Limited,A,C10134,2,100,yes,,keep as the group record
+C0007,merge_into_survivor,A,C10068,SARTHORN TOOLING LIMITED,A,C10134,2,100,yes,,"propose merge into survivor, after review"
+C0008,survivor,A,C10071,Tavvane Electrical GmbH,A,C10071,2,100,yes,,keep as the group record
+C0008,merge_into_survivor,B,K400124,Tavane Electrical GmbH,A,C10071,2,100,yes,"values differ: name; survivor blank, member has: email domain","propose merge into survivor, after review"
+C0009,survivor,A,C10084,Wilstead Tooling Limited,A,C10084,2,90,yes,,keep as the group record
+C0009,merge_into_survivor,B,K400151,"Wilstead Tooling,  Limited",A,C10084,2,90,yes,values differ: postcode,"propose merge into survivor, after review"
+C0010,survivor,A,C10105,Helhurst Testing Services Limited,A,C10105,2,100,yes,,keep as the group record
+C0010,merge_into_survivor,B,K400131,Helhrst Testing Services Limited,A,C10105,2,100,yes,values differ: name,"propose merge into survivor, after review"
+C0011,survivor,A,C10118,Selshaw Pumps Ltd,A,C10118,2,100,yes,,keep as the group record
+C0011,merge_into_survivor,B,K400191,Selhaw Pumps Ltd,A,C10118,2,100,yes,values differ: name,"propose merge into survivor, after review"
+C0012,survivor,B,K400181,Dortrel Manufacturing GmbH u. Co. KG,B,K400181,2,94,yes,,keep as the group record
+C0012,merge_into_survivor,A,C10126,Dortrel Manufacturing GmbH & Co. KG,B,K400181,2,94,yes,values differ: name,"propose merge into survivor, after review"
+C0013,survivor,A,C10130,Aldwyn Fabrications KG,A,C10130,2,95,yes,,keep as the group record
+C0013,merge_into_survivor,B,K400140,"Aldwyn Fabrications,  KG",A,C10130,2,95,yes,values differ: postcode,"propose merge into survivor, after review"
+C0014,survivor,B,K400113,Eskisk Fixings GmbH,B,K400113,2,100,yes,,keep as the group record
+C0014,merge_into_survivor,B,K400120,ESKISK FIXINGS GMBH,B,K400113,2,100,yes,,"propose merge into survivor, after review"
+C0015,survivor,B,K400143,Kelcroft Heat Treatment Ltd,B,K400143,2,95,yes,,keep as the group record
+C0015,merge_into_survivor,B,K400142,Kelcroft Heat Treatment Limited,B,K400143,2,95,yes,,"propose merge into survivor, after review"
+C0016,survivor,B,K400169,Baxshaw Machining KG,B,K400169,2,100,yes,,keep as the group record
+C0016,merge_into_survivor,B,K400176,BAXSHAW MACHINING KG,B,K400169,2,100,yes,,"propose merge into survivor, after review"

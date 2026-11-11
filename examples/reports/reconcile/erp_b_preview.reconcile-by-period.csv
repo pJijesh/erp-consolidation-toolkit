@@ -1,0 +1,4 @@
+period,source_debit,source_credit,source_net,mapped_net,unmapped_net,unmapped_accounts_with_balance,reclassified_abs,target_tb_differences,status,flags
+2026-01,10602771.46,10602771.46,0.00,-476391.45,476391.45,21,23509.45,,DIFFERENCES,reclassification;unmapped_balance
+2026-02,13195313.79,13195313.79,0.00,-665083.98,665083.98,21,47808.26,,DIFFERENCES,reclassification;unmapped_balance
+2026-03,15685259.48,15685259.48,0.00,-770361.66,770361.66,21,71030.24,,DIFFERENCES,reclassification;unmapped_balance
